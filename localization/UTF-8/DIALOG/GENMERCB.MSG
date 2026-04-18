@@ -1,0 +1,15 @@
+{101}{}{我现在不需要你的服务。也许以后会需要。}
+{102}{}{救命！救救我！}
+{103}{}{你必须为你所做的一切付出代价！}
+{104}{}{饶了我！求你了！}
+{105}{}{他们都死了吗？也许还有其他人！}
+
+#
+# TRANSLATION NOTE: The following three sets of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{106}{}{你的到来真是及时，我的朋友。请允许我赠送你一件小礼物，以表谢意。}
+{107}{}{你的到来真是及时，我的朋友。请允许我赠送你一件小礼物，以表谢意。}
