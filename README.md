@@ -14,12 +14,13 @@ localization/
   │   ├── GAME/         ← 系统消息
   │   ├── CREDITS.TXT
   │   └── QUOTES.TXT
-  └── UTF-8/            ← UTF-8 编码汉化文件（⚠️ 存在断行显示问题）
-      ├── CUTS/
-      ├── DIALOG/
-      ├── GAME/
-      ├── CREDITS.TXT
-      └── QUOTES.TXT
+  ├── UTF-8/            ← UTF-8 编码汉化文件（⚠️ 存在断行显示问题）
+  │   ├── CUTS/
+  │   ├── DIALOG/
+  │   ├── GAME/
+  │   ├── CREDITS.TXT
+  │   └── QUOTES.TXT
+  └── ENGLISH_BACKUP/   ← 原始英文备份
 
 localization_tools/     ← 翻译工具
   ├── translator.py     ← AI 批量翻译脚本
