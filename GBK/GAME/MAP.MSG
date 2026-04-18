@@ -1,0 +1,384 @@
+
+#
+# Messages for Maps
+#
+
+#
+# Map Names for lookups
+#	Note: This order must *NOT* change!
+#
+{0}{}{沙漠1.MAP}
+{1}{}{沙漠2.MAP}
+{2}{}{沙漠3.MAP}
+{3}{}{大厅死亡.MAP}
+{4}{}{旅馆.MAP}
+{5}{}{水处理站.MAP}
+{6}{}{13号避难所.MAP}
+{7}{}{避难所入口.MAP}
+{8}{}{避难所废墟.MAP}
+{9}{}{死城避难所.MAP}
+{10}{}{废品镇入口.MAP}
+{11}{}{废品镇赌场.MAP}
+{12}{}{废品镇杀戮.MAP}
+{13}{}{钢铁兄弟会入口.MAP}
+{14}{}{钢铁兄弟会12层.MAP}
+{15}{}{钢铁兄弟会34层.MAP}
+{16}{}{洞穴.MAP}
+{17}{}{儿童1.MAP}
+{18}{}{儿童2.MAP}
+{19}{}{城市1.MAP}
+{20}{}{海岸1.MAP}
+{21}{}{海岸2.MAP}
+{22}{}{可乐卡车.MAP}
+{23}{}{FSA用户.MAP}
+{24}{}{掠夺者.MAP}
+{25}{}{阴影镇入口.MAP}
+{26}{}{阴影镇.MAP}
+{27}{}{辉光入口.MAP}
+{28}{}{洛杉矶避难所.MAP}
+{29}{}{洛杉矶追随者.MAP}
+{30}{}{MBENT.MAP}
+{31}{}{MBSTRG12.MAP}
+{32}{}{MBVATS12.MAP}
+{33}{}{MSTRLR12.MAP}
+{34}{}{MSTRLR34.MAP}
+{35}{}{V13ENT.MAP}
+{36}{}{HUBENT.MAP}
+{37}{}{DETHCLAW.MAP}
+{38}{}{HUBDWNTN.MAP}
+{39}{}{中心高地.MAP}
+{40}{}{旧城区.MAP}
+{41}{}{水商.MAP}
+{42}{}{辉光1.MAP}
+{43}{}{辉光2.MAP}
+{44}{}{刀锋实验室.MAP}
+{45}{}{撕裂者实验室.MAP}
+{46}{}{枪手巢穴.MAP}
+{47}{}{儿童死亡.MAP}
+{48}{}{MB死亡.MAP}
+{49}{}{山脉1.MAP}
+{50}{}{山脉2.MAP}
+{51}{}{脚印.MAP}
+{52}{}{时光机.MAP}
+{53}{}{谈话牛.MAP}
+{54}{}{旧车.MAP}
+{55}{}{兄弟会死亡.MAP}
+{56}{}{沙漠商队1.MAP}
+{57}{}{沙漠商队2.MAP}
+{58}{}{山地商队1.MAP}
+{59}{}{MNTCRVN2.MAP}
+{60}{}{毒蛇营地.MAP}
+{61}{}{沙漠商队3.MAP}
+{62}{}{山地商队3.MAP}
+{63}{}{沙漠商队4.MAP}
+{64}{}{山地商队4.MAP}
+{65}{}{中心任务1.MAP}
+
+#
+# Map Names for (Automap) Descriptions
+#	Note: This order must *NOT* change!
+#
+#	Note: The maximum description width is approximately:
+#	  "Brotherhood of Steel (Lower Levels)" -- about 34 characters,
+#	  but it's proportional, so you need to double-check it by
+#	  going into mapper/game and going to the automap for that map.
+#
+#	Note: Descriptions *MUST* *NOT* be empty, and so temporary
+#	  descriptions are just the map name itself (this also helps
+#	  pinpoint unfinished ones when you go through here).
+#
+{100}{}{沙漠}										 // 沙漠1.MAP {101}{}{沙漠}										 // 沙漠2.MAP {102}{}{沙漠}										 // 沙漠3.MAP {103}{}{死城}                           // 死城大厅.MAP {104}{}{死城}                           // 死城旅馆.MAP {105}{}{死城}                           // 水处理厂.MAP {106}{}{13号避难所} 									 // 13号避难所.MAP {107}{}{15号避难所}                             // 15号避难所入口.MAP {108}{}{15号避难所} 									 // 15号避难所内部.MAP {109}{}{死城}                           // 死城避难所.MAP {110}{}{废城}                             // 废城入口.MAP
+
+
+#
+# City elevation names
+#
+# Format: 3 (max elevations), by city
+#
+# Desert, DESERT1.MAP
+{200}{}{}
+{201}{}{}
+{202}{}{}
+# Desert, DESERT2.MAP
+{203}{}{}
+{204}{}{}
+{205}{}{}
+# Desert, DESERT3.MAP
+{206}{}{}
+{207}{}{}
+{208}{}{}
+# Necropolis Hall of the Dead, HALLDED.MAP
+{209}{}{下水道}
+{210}{}{大厅}
+{211}{}{}
+# Necropolis Hotel of Doom, HOTEL.MAP
+{212}{}{下水道}
+{213}{}{旅馆}
+{214}{}{}
+# Necropolis Watershed, WATRSHD.MAP
+{215}{}{下水道}
+{216}{}{水源地}
+{217}{}{}
+# Vault 13, VAULT13.MAP
+{218}{}{入口}
+{219}{}{生活区}
+{220}{}{指挥中心}
+# Buried Vault Entrance, VAULTENT.MAP
+{221}{}{洞穴入口}
+{222}{}{}
+{223}{}{}
+# Buried Vault,  VAULTBUR.MAP
+{224}{}{洞窟}
+{225}{}{生活区}
+{226}{}{指挥中心}
+# Necropolis Vault, VAULTNEC.MAP
+{227}{}{下水道}
+{228}{}{生活区}
+{229}{}{指挥中心}
+# Junktown Entrance, JUNKENT.MAP
+{230}{}{入口}
+{231}{}{实验室}
+{232}{}{}
+# Junktown Casino, JUNKCSNO.MAP
+{233}{}{赌场}
+{234}{}{}
+{235}{}{}
+# Junktown Killian's, JUNKKILL.MAP
+{236}{}{撞击屋}
+{237}{}{}
+{238}{}{}
+# Brotherhood of Steel Entrance, BROHDENT.MAP
+{239}{}{入口}
+{240}{}{}
+{241}{}{}
+# Brotherhood of Steel (Upper Levels), BROHD12.MAP
+{242}{}{第一层}
+{243}{}{第二层}
+{244}{}{}
+# Brotherhood of Steel (Lower Levels), BROHD34.MAP
+{245}{}{第3层}
+{246}{}{第4层}
+{247}{}{}
+# Caves (Shady sands), CAVES.MAP
+{248}{}{洞穴}
+{249}{}{}
+{250}{}{}
+# Cathedral, CHILDRN1.MAP
+{251}{}{入口}
+{252}{}{塔楼第1层}
+{253}{}{}
+# Cathedral Tower, CHILDRN2.MAP
+{254}{}{塔楼第2层}
+{255}{}{塔楼第3层}
+{256}{}{塔楼第4层}
+# City Ruins, CITY1.MAP
+{257}{}{}
+{258}{}{}
+{259}{}{}
+# Coast, COAST1.MAP
+{260}{}{}
+{261}{}{}
+{262}{}{}
+# Coast, COAST2.MAP
+{263}{}{}
+{264}{}{}
+{265}{}{}
+# Desert, COLATRUK.MAP
+{266}{}{特殊}
+{267}{}{}
+{268}{}{}
+# Desert, FSAUSER.MAP
+{269}{}{特殊}
+{270}{}{}
+{271}{}{}
+# Raider's Camp, RAIDERS.MAP
+{272}{}{基地}
+{273}{}{}
+{274}{}{}
+# Shady Sands East, SHADYE.MAP
+{275}{}{花园}
+{276}{}{布拉明围栏}
+{277}{}{}
+# Shady Sands West, SHADYW.MAP
+{278}{}{市政厅}
+{279}{}{}
+{280}{}{}
+# GLOWENT.MAP
+{281}{}{入口}
+{282}{}{}
+{283}{}{}
+# LAADYTUM.MAP
+{284}{}{阿迪图姆}
+{285}{}{地下}
+{286}{}{}
+# LAFOLLWR.MAP
+{287}{}{图书馆}
+{288}{}{地下}
+{289}{}{}
+# Military Base Entrance, MBENT.MAP
+{290}{}{入口}
+{291}{}{}
+{292}{}{}
+# Military Base Stronghold, MBSTRG12.MAP
+{293}{}{要塞第一层}
+{294}{}{要塞第二层}
+{295}{}{}
+# Military Base Vats, MBVATS12.MAP
+{296}{}{废料池第一层}
+{297}{}{废料池第二层}
+{298}{}{}
+# Master's Lair (Upper Levels), MSTRLR12.MAP
+{299}{}{巢穴第一层}
+{300}{}{巢穴第二层}
+{301}{}{}
+# Master's Lair (Lower Levels), MSTRLR34.MAP
+{302}{}{巢穴第三层}
+{303}{}{巢穴第四层}
+{304}{}{}
+# Vault 13 Entrance, V13ENT.MAP
+{305}{}{洞穴入口}
+{306}{}{}
+{307}{}{}
+# Hub Entrance, HUBENT.MAP
+{308}{}{入口}
+{309}{}{}
+{310}{}{}
+# DeathClaw's Lair, DETHCLAW.MAP
+{311}{}{巢穴}
+{312}{}{}
+{313}{}{}
+# Hub Downtown, HUBDWNTN.MAP
+{314}{}{市中心}
+{315}{}{德克的藏身处}
+{316}{}{}
+# HUBHEIGT.MAP
+{317}{}{高地}
+{318}{}{}
+{319}{}{}
+# Hub Old Town, HUBOLDTN.MAP
+{320}{}{旧城区}
+{321}{}{盗贼圈}
+{322}{}{}
+# HUBWATER.MAP
+{323}{}{商人区}
+{324}{}{}
+{325}{}{}
+# GLOW1.MAP
+{326}{}{第一层}
+{327}{}{第二层}
+{328}{}{第三层}
+# GLOW2.MAP
+{329}{}{第四层}
+{330}{}{第五层}
+{331}{}{第六层}
+# LABLADES.MAP
+{332}{}{市中心}
+{333}{}{}
+{334}{}{}
+# LARIPPER.MAP
+{335}{}{仓库}
+{336}{}{地下}
+{337}{}{}
+# LAGUNRUN.MAP
+{338}{}{要塞}
+{339}{}{}
+{340}{}{}
+# CHILDEAD.MAP
+{341}{}{陨石坑}
+{342}{}{}
+{343}{}{}
+# MBDEAD.MAP
+{344}{}{废墟}
+{345}{}{}
+{346}{}{}
+# MOUNTN1.MAP
+{347}{}{}
+{348}{}{}
+{349}{}{}
+# MOUNTN2.MAP
+{350}{}{}
+{351}{}{}
+{352}{}{}
+# FOOT.MAP
+{353}{}{特殊}
+{354}{}{}
+{355}{}{}
+# TARDIS.MAP
+{356}{}{特殊}
+{357}{}{}
+{358}{}{}
+# TALKCOW.MAP
+{359}{}{特殊}
+{360}{}{}
+{361}{}{}
+# USEDCAR.MAP
+{362}{}{特殊}
+{363}{}{}
+{364}{}{}
+# BRODEAD.MAP
+{365}{}{废墟}
+{366}{}{}
+{367}{}{}
+# DESCRVN1.MAP
+{368}{}{}
+{369}{}{}
+{370}{}{}
+# DESCRVN2.MAP
+{371}{}{}
+{372}{}{}
+{373}{}{}
+# MNTCRVN1.MAP
+{374}{}{}
+{375}{}{}
+{376}{}{}
+# MNTCRVN2.MAP
+{377}{}{}
+{378}{}{}
+{379}{}{}
+# VIPERS.MAP
+{380}{}{}
+{381}{}{}
+{382}{}{}
+# DESCRVN3.MAP
+{383}{}{}
+{384}{}{}
+{385}{}{}
+# MNTCRVN3.MAP
+{386}{}{}
+{387}{}{}
+{388}{}{}
+# DESCRVN4.MAP
+{389}{}{}
+{390}{}{}
+{391}{}{}
+# MNTCRVN4.MAP
+{392}{}{}
+{393}{}{}
+{394}{}{}
+# HUBMIS1.MAP
+{395}{}{}
+{396}{}{}
+{397}{}{}
+
+#
+#	Short City names
+#
+{500}{}{13号避难所}
+{501}{}{15号避难所}
+{502}{}{阴影沙地}
+{503}{}{废城}
+{504}{}{掠夺者}
+{505}{}{死城}
+{506}{}{商会}
+{507}{}{钢铁兄弟会}
+{508}{}{军事基地}
+{509}{}{辉光}
+{510}{}{骨园}
+{511}{}{大教堂}
+
+
+
+#
+# Error Messages
+#
+{1000}{}{错误：磁盘空间不足，无法保存地图！}
