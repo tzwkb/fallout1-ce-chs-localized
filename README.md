@@ -42,13 +42,13 @@ localization_tools/     ← 翻译工具
 
 Release 页面：[yurikaka/fallout1-ce-chs/releases](https://github.com/yurikaka/fallout1-ce-chs/releases)
 
-### 下载汉化补丁
+### 下载中文版游戏资源包
 
 | 内容 | 下载 |
 |------|------|
-| 汉化补丁 GBK 版（推荐） | [fallout1-ce-chs-gbk.zip](https://github.com/tzwkb/fallout1-ce-chs-localized/releases/download/v1.0.0/fallout1-ce-chs-gbk.zip) |
+| 完整中文版资源包（含引擎 + 汉化 + 字体） | [fallout1-ce-chs-gbk.zip](https://github.com/tzwkb/fallout1-ce-chs-localized/releases/download/v1.0.0/fallout1-ce-chs-gbk.zip) |
 
-> 直接下载上方压缩包即可，无需从仓库逐个下载文件。
+> 该压缩包包含编译好的 Fallout CE 中文版引擎、GBK 汉化文本及中文字体。仍需配合原版游戏的 `master.dat` 和 `critter.dat` 使用。
 
 ### 各平台安装步骤
 
@@ -75,8 +75,8 @@ $ innoextract ~/Downloads/setup_fallout_2.1.0.18.exe -I app
 $ mv app Fallout
 ```
 
-- 下载并复制 `fallout-ce` 到该文件夹。
-- 下载汉化补丁压缩包，将其中 `localization/GBK/` 覆盖到 `Fallout/data/text/english/`。
+- 下载中文版资源包并解压到该文件夹。
+- 将原版 `master.dat` 和 `critter.dat` 复制到该文件夹。
 - 确认 `fonts/chs/font.ini` 中 `encoding=GBK`。
 - 安装 [SDL2](https://libsdl.org/download-2.0.php)：
 
@@ -100,8 +100,8 @@ $ innoextract ~/Downloads/setup_fallout_2.1.0.18.exe -I app
 $ mv app /Applications/Fallout
 ```
 
-- 下载并复制 `fallout-ce.app` 到该文件夹。
-- 下载汉化补丁压缩包，将其中 `localization/GBK/` 覆盖到 `Fallout/data/text/english/`。
+- 下载中文版资源包并解压到该文件夹。
+- 将原版 `master.dat` 和 `critter.dat` 复制到该文件夹。
 - 确认 `fonts/chs/font.ini` 中 `encoding=GBK`。
 - 运行 `fallout-ce.app`。
 
@@ -118,7 +118,7 @@ $ mv app /Applications/Fallout
 - 以 Windows 版游戏资源为基础。将 `Fallout` 文件夹复制到设备，例如 `Downloads`。你需要 `master.dat`、`critter.dat` 和 `data` 文件夹。注意文件名需保持小写（参见下方的 [Configuration](#configuration)）。
 - 下载 `fallout-ce.apk` 并复制到设备，用文件管理器打开安装（需允许未知来源安装）。
 - 首次运行游戏时会弹出文件选择器，选择第一步中的文件夹。等待数据复制完成（约 30 秒），游戏将自动启动。
-- 安装完成后，将本仓库 `localization/GBK/` 通过文件管理器覆盖到设备的游戏数据目录 `data/text/english/` 下。
+- 安装完成后，将中文版资源包中的 `localization/GBK/` 通过文件管理器覆盖到设备的游戏数据目录 `data/text/english/` 下。
 - 确认 `fonts/chs/font.ini` 中 `encoding=GBK`。
 
 #### iOS
@@ -128,7 +128,7 @@ $ mv app /Applications/Fallout
 - 下载 `fallout-ce.ipa`，使用侧载工具（[AltStore](https://altstore.io/) 或 [Sideloadly](https://sideloadly.io/)）安装到设备。也可以自行从源码构建并签名。
 - 首次运行游戏会看到 "Could not find the master datafile..." 的错误提示，这一步是为了让 iOS 通过文件共享暴露该应用。
 - 使用 Finder（macOS Catalina 及更新版本）或 iTunes（Windows 和 macOS Mojave 及更早版本）将 `master.dat`、`critter.dat` 和 `data` 文件夹复制到 "Fallout" 应用中（[操作指南](https://support.apple.com/HT210598)）。注意文件名保持小写（参见下方的 [Configuration](#configuration)）。
-- 通过文件共享将本仓库 `localization/GBK/` 复制到应用的 `data/text/english/` 目录下。
+- 通过文件共享将中文版资源包中的 `localization/GBK/` 复制到应用的 `data/text/english/` 目录下。
 - 确认 `fonts/chs/font.ini` 中 `encoding=GBK`。
 
 ---
