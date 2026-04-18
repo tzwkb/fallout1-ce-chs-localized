@@ -1,0 +1,160 @@
+{100}{}{你看到菱形。}
+{101}{}{告诉我关于你自己的事。}
+{102}{}{你能给我讲讲兄弟会的历史吗？}
+{103}{}{听说过什么好传闻吗？}
+{104}{}{你能告诉我周围的情况吗？}
+{105}{Rhom1}{May I help you?}
+{106}{}{我可以问你几个问题吗？}
+{107}{}{你看起来不像个战士。}
+{108}{}{呃？}
+{109}{Rhom2}{Yes.}
+{110}{Rhom3}{Insolent pup. Apologize now and you'll not be hurt.}
+{111}{}{我只是想开个玩笑。非常抱歉。}
+{112}{}{你说的？}
+{113}{Rhom4}{What do you want?}
+{114}{}{我可以问几个问题吗？}
+{115}{}{你到底有多胆小？}
+{116}{Rhom5}{You are a disgrace to the Brotherhood. I will teach you manners.}
+{117}{Rhom6}{I will waste no more time with you.}
+{118}{Rhom7}{I am Rhombus, head of the Paladins. I train those willing to learn.}
+{119}{}{好吧，你能教我一些东西吗？}
+{120}{}{就这样？这就是你的一生？}
+{121}{}{圣骑士们是做什么的？}
+{122}{Rhom8}{Stuff? I could teach you how to fight...if you had any ability. But the High Elder decreed no training of new recruits until the threat of invasion passes.}
+{123}{}{什么威胁？}
+{124}{}{他为什么停止训练？}
+{125}{}{我可以轻松打败你。}
+{126}{Rhom9}{It is not my place to answer. See the High Elder if you wish.}
+{127}{}{哦，拜托，求你了？}
+{128}{}{好吧，行吧。我可以再问几个问题吗？}
+{129}{Rhom10}{There are rumors of a strange army gathering. I will not say more.}
+{130}{}{哦，拜托，求你了？}
+{131}{}{不过我可以再问几个问题吗？}
+{132}{Rhom11}{ No.}
+{133}{}{哦，拜托，求你了？}
+{134}{}{好吧。不过我可以再问几个问题吗？}
+{135}{Rhom12}{Yes. That is all there needs to be.}
+{136}{}{你的生活听起来真空虚。}
+{137}{}{真的吗？}
+{138}{Rhom13}{You do not understand what it is to be a Paladin. Too bad.}
+{139}{}{你觉得我能成为圣骑士吗？}
+{140}{}{当骑士听起来真蠢。}
+{141}{}{不，我想不是。我可以再问几个问题吗？}
+{142}{Rhom14}{Possibly. When the invading army is vanquished, come back to be trained.}
+{143}{}{我想我会去试试，谢谢。}
+{144}{}{你？我能轻松把你打趴下！}
+{145}{Rhom15}{Was there anything else?}
+{146}{}{是的。我可以再问几个问题吗？}
+{147}{}{不用，谢谢。}
+{148}{Rhom16}{Goodbye then.}
+{149}{Rhom17}{It takes too long. I spend my time improving those  already trained.}
+{150}{}{听起来真无聊。}
+{151}{}{就这样？这就是你的人生？}
+{152}{}{真遗憾。我可以再问几个问题吗？}
+{153}{Rhom18}{Ha ha ha! Let's see.}
+{154}{Rhom19}{The Scribes copy the plans for the weapons, and the Knights make them. The Paladins protect the Brotherhood from harm.}
+{155}{}{能有什么危险呢？}
+{156}{}{天啊，听起来真无聊。}
+{157}{Rhom20}{Many covet our technology. We have at least four attacks a week, from raiders to just people who want to steal what we have.}
+{158}{}{哦。我可以再问几个问题吗？}
+{159}{Rhom21}{Talk to Vree in the main library.}
+{160}{Rhom22}{I do not put stock in rumors.}
+{161}{}{拜托，就一个问题？求你了？}
+{162}{}{好吧。}
+{163}{Rhom23}{The Hub and the Boneyard are south, mountains are east, and desolate wasteland north. Whoever goes there never returns.}
+{164}{Rhom24}{Put that back now!}
+{165}{Rhom25}{This is what we do to criminals...}
+{166}{Rhom26}{Stop that!}
+{167}{Rhom27}{So you are a thief? I will show you what we do with thieves...}
+{168}{}{等等！我可以解释！}
+{169}{}{来吧，尽管放马过来。}
+{170}{Rhom28}{All right, explain yourself, Initiate.}
+{171}{}{我只是随便看看！}
+{172}{}{对不起，我不知道这是你的房间。}
+{173}{Rhom29}{Then leave, and I will forget this little incident.}
+{174}{}{好的，谢谢。}
+{175}{}{没错，你会的。}
+{176}{Rhom30}{You lie, Initiate! This is how we deal with thieves...}
+{177}{Rhom32}{You are either stupid or making fun of me. Either way, I will not waste my time.}
+{178}{Rhom33}{Talk to Talus, my second in command. He can tell you more about that.}
+{179}{Rhom34}{I said...}
+{180}{Rhom35}{Like I just told you...}
+{181}{Rhom36}{I will not repeat myself again.}
+{182}{Rhom37}{Do you not hear? I will not say it again!}
+{183}{Rhom38}{She is the Head Scribe. You can find her in the library.}
+{184}{Rhom39b}{That is me.}
+{185}{}{塔鲁斯是我的副手。}
+{186}{Rhom40}{Ah, General Maxson was the finest Head Paladin ever. When he took over as High Elder, I became Head Paladin.}
+{187}{Rhom41}{They copy the weapon documents down and come up with new ideas. What they research, the Knights make.}
+{188}{Rhom42}{They are the makers of the weapons.}
+{189}{Rhom43}{The Hub is south. We trade with them.}
+{190}{Rhom44}{Ask Vree. She would know.}
+{191}{Rhom45}{I am not authorized to discuss that. Talk to the High Elder.}
+{192}{Rhom46}{The Boneyard is far south. You will find only violence there.}
+{193}{Rhom47}{I do not know of that.}
+{194}{Rhom48}{I have never heard of that.}
+{195}{Rhom49}{I have no knowledge of such a thing.}
+{200}{}{我是新人，不太熟悉这里。}
+{201}{}{我不需要向你这个怪胎解释。}
+{202}{}{谢谢你。再见。}
+{203}{}{去死吧。}
+{204}{}{你试图打开门时，门发出嘎吱声。}
+{205}{}{你的技能让你可以悄无声息地偷窃。你打开储物柜时没有发出任何声音。}
+{206}{}{谁在那里？}
+{207}{}{你被吓了一跳，掉了你的战利品。}
+{208}{}{这个储物柜没有上锁。}
+{209}{}{别进我的房间！}
+{210}{}{我无辜的！}
+
+
+
+{980}{Rhom47}{I do not know of that.}
+{981}{Rhom48}{I have never heard of that.}
+{982}{Rhom49}{I have no knowledge of such a thing.}
+
+#
+# Rhombus Tell-Me-Abouts
+#
+
+
+{1000}{}{弗里}
+{1001}{}{菱形}
+{1002}{}{塔鲁斯}
+{1003}{}{长老}
+{1004}{}{抄写员}
+{1005}{}{骑士}
+{1006}{}{集散地}
+{1007}{}{磁盘}
+{1008}{}{军队}
+{1009}{}{尸骨城}
+{1010}{}{圣骑士}
+{1011}{}{主宰}
+{1012}{}{战争}
+{1013}{}{大迁徙}
+{1014}{}{奇怪的军队}
+{1015}{}{商人}
+{1016}{}{失踪的商队}
+{1017}{}{大教堂的子民}
+{1018}{}{新兵}
+{1019}{}{芯片}
+
+{1100}{Rhom38}{She is the Head Scribe. You can find her in the library.}
+{1101}{Rhom39b}{That is me.}
+{1102}{Rhom39a}{Talus is my second-in-command.}
+{1103}{Rhom40}{Ah, General Maxson was the finest Head Paladin ever. When he took over as High Elder, I became Head Paladin.}
+{1104}{Rhom41}{They copy the weapon documents down and come up with new ideas. What they research, the Knights make.}
+{1105}{Rhom42}{They are the makers of the weapons.}
+{1106}{Rhom23}{The Hub and the Boneyard are south, mountains are east, and desolate wasteland north. Whoever goes there never returns.}
+{1107}{Rhom44}{Ask Vree. She would know.}
+{1108}{Rhom45}{I am not authorized to discuss that. Talk to the High Elder.}
+{1109}{Rhom46}{The Boneyard is far south. You will find only violence there.}
+{1110}{Rhom13}{You do not understand what it is to be a Paladin. Too bad.}
+{1111}{Rhom44}{Ask Vree. She would know.}
+{1112}{Rhom21}{Talk to Vree in the main library.}
+{1113}{Rhom21}{Talk to Vree in the main library.}
+{1114}{Rhom10}{There are rumors of a strange army gathering. I will not say more.}
+{1115}{Rhom21}{Talk to Vree in the main library.}
+{1116}{Rhom47}{I do not know of that.}
+{1117}{Rhom49}{I have no knowledge of such a thing.}
+{1118}{Rhom21}{Talk to Vree in the main library.}
+{1119}{Rhom49}{I have no knowledge of such a thing.}
