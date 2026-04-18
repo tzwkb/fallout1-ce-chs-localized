@@ -1,0 +1,169 @@
+{100}{}{你看到哈利，这个超级变种人。}
+{101}{Harry_0}{Hey! You not look like ghoul. How come?}
+{102}{}{那是因为我今天打扮得特别帅气。}
+{103}{}{但我是个食尸鬼！}
+{104}{}{让我猜猜……因为我不是食尸鬼？}
+{105}{}{呃？}
+{106}{Harry_0a}{Huh?}
+{107}{Harry_0a}{Huh?}
+{108}{Harry_0b}{Whuh?}
+{109}{}{妈妈？}
+{110}{Harry_01}{Oooo...That was snazzy like, huh?}
+{111}{}{不，我只是逗你玩，我不是食尸鬼。}
+{112}{}{你在这里做什么？}
+{113}{Harry_02}{You not ghoul! I knew, I knew! Not fool Harry!}
+{114}{}{是啊，那很明显。}
+{115}{}{你说得对。既然你知道了，我就得杀了你。}
+{116}{Harry_03}{You not ghoul. Orders say not-ghoul, not be here.}
+{117}{}{谁在给你下命令？}
+{118}{}{好的，谢谢。我现在要走了。}
+{119}{Harry_04}{Lou tell me watch place. Not let no one in. Not
+ normals most. Take normals to the Lou. Hey...}
+{120}{}{但我不是普通人！}
+{121}{}{好吧，我们去见卢。}
+{122}{}{算了吧。那就‘不让你活’怎么样。}
+{123}{Harry_05}{Oh ho-ho, you find out soooon.}
+{124}{Harry_06}{Oh, uh, OK.  Have nice...day.}
+{125}{Harry_07}{Harry think he beat your head now.}
+{126}{Harry_08}{Ooo...Harry confused. You not ghoul. You not normal.  Hmm, what you? [Mumbling]}
+{127}{}{我是一个新种族的超级变种人。}
+{128}{}{我是一个高度先进的机器人。}
+{129}{}{好吧，我是个普通人。}
+{130}{Harry_09}{No! Harry know you not. Not like you!}
+{131}{Harry_10}{Oh, ok. Harry think what to do.}
+{132}{Harry_11}{Not like you. Hurt you now. Bad.}
+{133}{Harry_12}{Uh, hello, pretty lady. You look real nice.}
+{134}{}{你忙吗？我需要一个又大又强壮的男人。}
+{135}{}{靠近一点，我有东西给你。}
+{136}{Harry_13}{Harry gotta guard this place. Gotta stay right here.}
+{137}{}{啊，我明白了。那祝你有个好日子。}
+{138}{}{这让我很难过。}
+{139}{Harry_14}{Hey, you a normal! Gotta take you to Lou. Now!}
+{140}{}{拜托，别这样。放我走吧。}
+{141}{}{啊，管它呢！看看这些女性魅力，变种人！……}
+{142}{Harry_15}{Ohhh...Go away quick or Harry be in trouble.}
+{143}{Harry_16}{OK. Go now. Gotta keep eyes out for humans. Not have
+ time for you.}
+{144}{Harry_17}{What do you have for me?}
+{145}{}{给你一个小小的打击……}
+{146}{}{给你一个小小的吻。}
+{147}{Harry_18}{You hurt Harry's friends! I...hurt...you!}
+{148}{Harry_19}{Ohhh...You again?  What want now?}
+{149}{}{我想让你带我去见你的上级。}
+{150}{}{没什么，只是路过。}
+{151}{}{我回来是为了揍你。}
+{152}{Harry_20}{Um..OK. Move along then.}
+{153}{Harry_21}{Hey, you a normal! You come with Harry!}
+{154}{Harry_22}{Hmm...OK. Take ya to Lou.}
+{155}{Harry_23}{Ummm...yes. You prime normal.  The Lou will be happy.  Take away, take away.}
+{156}{}{等等，等等！你不明白。}
+{157}{}{我会用我的双手杀了你。}
+{158}{Harry_24}{Not have to. Harry follow orders. Take to the Lou.}
+{159}{Harry_25}{Harry not think so, but you can try. Let go, guys.}
+{160}{Harry_26}{Hey, Harry hear about you. You break the Vats!}
+{161}{}{是的，我做了。现在我要解决掉你。}
+{162}{}{是的，我就是那个人。你打算怎么办？}
+{163}{}{嗯哼。}
+{164}{Harry_27}{Uhh, me let you go. OK? You not show face here again? Please?}
+{165}{}{这还不够好。}
+{166}{}{再见。我不希望再见到你。}
+{167}{}{呃。}
+{168}{Harry200}{Not have to tell you anything!}
+{169}{Harry201}{You kill Larry!}
+{170}{Harry202}{You kill Gary!}
+{171}{Harry203}{You kill my brother, Barry!}
+{172}{Harry204}{You kill Terry!}
+{173}{Harry205}{You kill Sally! He did have lousy name. But not reason to kill him!}
+{174}{Harry26}{Not bother me. Leave alone!}
+{175}{Harry207}{Uhhh...Not know.}
+{176}{Harry300}{I dunno, but think he like a boss people.}
+{177}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
+{178}{Harry302}{Set a wuss. He think he run place, but we run.}
+{179}{Harry303}{The what?}
+{180}{Harry304}{Hmph! Punies.}
+{181}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
+{182}{Harry306}{Here, dummy. [Sigh] You stupid?}
+{183}{Harry307}{The U' U' U' Un, I don't know.}
+{184}{Harry308}{Nice for little guys. Harry hurt once and they make better.
+ Make perfect again!}
+{185}{}{哈利现在开打}
+{186}{}{哈利现在开打}
+{187}{}{哈利现在开打}
+{188}{}{哈利现在开打}
+{189}{}{哈利等待30秒}
+{190}{}{哈利现在离开}
+{191}{}{你哪儿也带不走我！}
+{192}{}{好吧，带我去见你的老板。}
+{193}{}{变种人无视了你。}
+
+
+
+#
+# Harry Tell-Me-Abouts
+#
+{970}{Harry_0b}{Whuh?}
+
+{980}{Harry_0a}{Huh?}
+{981}{Harry_0b}{Whuh?}
+{982}{Harry207}{Uhhh...Not know.}
+{983}{Harry303}{The what?}
+{984}{Harry200}{Not have to tell you anything!}
+
+{1000}{}{主人}
+{1001}{}{卢}
+{1002}{}{赛特}
+{1003}{}{棚屋}
+{1004}{}{食尸鬼}
+{1005}{}{普通人}
+{1006}{}{死城}
+{1007}{}{统一体}
+{1008}{}{大教堂}
+{1009}{}{芯片}
+{1010}{}{大厅}
+{1011}{}{水}
+{1012}{}{人类}
+{1013}{}{普通人}
+{1014}{}{普通人}
+{1015}{}{儿童}
+{1016}{}{大教堂的孩子们}
+{1017}{}{水处理区}
+{1018}{}{中尉}
+{1019}{}{中尉}
+{1020}{}{卢}
+{1021}{}{卢中尉}
+{1022}{}{拉里}
+{1023}{}{巴里}
+{1024}{}{加里}
+{1025}{}{特里}
+{1026}{}{莎莉}
+
+{1100}{Harry300}{I don't know, but think he like a boss people.}
+{1101}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
+{1102}{Harry302}{Set a wuss. He think he run place, but we run.}
+{1103}{Harry306}{Here, dummy. Hmpf. You stupid?}
+{1104}{Harry304}{Hmpf! Punies.}
+{1105}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
+{1106}{Harry306}{Here, dummy. Hmpf. You stupid?}
+{1107}{Harry307}{The U-U-U-Un, I don't know.}
+{1108}{Harry308}{Nice for little guys. Harry hurt once and they make better.
+ Make perfect again!}
+{1109}{Harry303}{The what?}
+{1110}{Harry207}{Uhhh...Not know.}
+{1111}{Harry207}{Uhhh...Not know.}
+{1112}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
+{1113}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
+{1114}{Harry305}{Weak. Not know why the Lou want normals. They suck!}
+{1115}{Harry308}{Nice for little guys. Harry hurt once and they make better.
+ Make perfect again!}
+{1116}{Harry308}{Nice for little guys. Harry hurt once and they make better.
+ Make perfect again!}
+{1117}{Harry306}{Here, dummy. Hmpf. You stupid?}
+{1118}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
+{1119}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
+{1120}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
+{1121}{Harry301}{He Lou Tenant. He my boss. Not tell him, but Harry could take on good day.}
+{1122}{Harry200}{Not have to tell you anything!}
+{1123}{Harry200}{Not have to tell you anything!}
+{1124}{Harry200}{Not have to tell you anything!}
+{1125}{Harry200}{Not have to tell you anything!}
+{1126}{Harry200}{Not have to tell you anything!}
