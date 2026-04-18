@@ -1,22 +1,73 @@
-# Fallout Community Edition
+# Fallout 1 中文本地化 / Fallout 1 Chinese Localization
 
-Fallout Community Edition is a fully working re-implementation of Fallout, with the same original gameplay, engine bugfixes, and some quality of life improvements, that works (mostly) hassle-free on multiple platforms.
+> 本仓库是《辐射1》的完整中文汉化补丁，基于 [yurikaka/fallout1-ce-chs](https://github.com/yurikaka/fallout1-ce-chs) 的中文渲染引擎。
 
-There is also [Fallout 2 Community Edition](https://github.com/alexbatalov/fallout2-ce).
+---
 
-## Installation
+## 仓库结构
 
-You must own the game to play. Purchase your copy on [GOG](https://www.gog.com/game/fallout) or [Steam](https://store.steampowered.com/app/38400). Download latest [release](https://github.com/alexbatalov/fallout1-ce/releases) or build from source. You can also check latest [debug](https://github.com/alexbatalov/fallout1-ce/actions) build intended for testers.
+```
+localization/
+  ├── GBK/              ← GBK 编码汉化文件（✅ 推荐使用）
+  │   ├── CUTS/         ← 过场字幕
+  │   ├── DIALOG/       ← NPC 对话
+  │   ├── GAME/         ← 系统消息
+  │   ├── CREDITS.TXT
+  │   └── QUOTES.TXT
+  └── UTF-8/            ← UTF-8 编码汉化文件（⚠️ 存在断行显示问题）
+      ├── CUTS/
+      ├── DIALOG/
+      ├── GAME/
+      ├── CREDITS.TXT
+      └── QUOTES.TXT
 
-### Windows
+localization_tools/     ← 翻译工具
+  ├── translator.py     ← AI 批量翻译脚本
+  └── converter.py      ← UTF-8 转 GBK 编码转换
+```
 
-Download and copy `fallout-ce.exe` to your `Fallout` folder. It serves as a drop-in replacement for `falloutw.exe`.
+---
 
-### Linux
+## 安装与使用（中文版）
 
-- Use Windows installation as a base - it contains data assets needed to play. Copy `Fallout` folder somewhere, for example `/home/john/Desktop/Fallout`.
+### 下载编译好的中文版引擎
 
-- Alternatively you can extract the needed files from the GoG installer:
+| 平台 | 下载 |
+|------|------|
+| Windows x64 | [fallout-ce-windows-x64.zip](https://github.com/yurikaka/fallout1-ce-chs/releases) |
+| Windows x86 | [fallout-ce-windows-x86.zip](https://github.com/yurikaka/fallout1-ce-chs/releases) |
+| Android | [fallout-ce-android.apk](https://github.com/yurikaka/fallout1-ce-chs/releases) |
+| iOS | [fallout-ce-ios.ipa](https://github.com/yurikaka/fallout1-ce-chs/releases) |
+| Linux | [fallout-ce-linux-x64.tar.gz](https://github.com/yurikaka/fallout1-ce-chs/releases) |
+
+Release 页面：[yurikaka/fallout1-ce-chs/releases](https://github.com/yurikaka/fallout1-ce-chs/releases)
+
+### 下载汉化补丁
+
+| 内容 | 下载 |
+|------|------|
+| 汉化补丁 GBK 版（推荐） | [fallout1-ce-chs-gbk.zip](https://github.com/tzwkb/fallout1-ce-chs-localized/releases/download/v1.0.0/fallout1-ce-chs-gbk.zip) |
+
+> 直接下载上方压缩包即可，无需从仓库逐个下载文件。
+
+### 各平台安装步骤
+
+> 以下在 [Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce) 原版安装指南的基础上，补充了中文版特有的字体与汉化文件配置。
+
+#### Windows
+
+1. 下载 `fallout-ce-windows-x64.zip`（或 x86），解压得到 `fallout-ce.exe` 和 `fonts/` 文件夹。
+2. 将上述文件复制到你的 `Fallout` 游戏目录（与 `falloutw.exe` 同级）。
+3. 下载汉化补丁压缩包，将其中 `localization/GBK/` 内的全部文件覆盖到游戏目录的 `data/text/english/` 下。
+4. 确认 `fonts/chs/font.ini` 中 `encoding=GBK`。
+5. 运行 `fallout-ce.exe`。
+
+**注意**：UTF-8 编码也能运行，但会导致对话框断行显示异常。**建议使用 GBK 编码版本。**
+
+#### Linux
+
+- 以 Windows 版游戏资源为基础（包含 `master.dat`、`critter.dat` 和 `data` 文件夹）。将 `Fallout` 文件夹复制到合适位置，例如 `/home/john/Desktop/Fallout`。
+- 或者从 GoG 安装包提取所需文件：
 
 ```console
 $ sudo apt install innoextract
@@ -24,25 +75,24 @@ $ innoextract ~/Downloads/setup_fallout_2.1.0.18.exe -I app
 $ mv app Fallout
 ```
 
-- Download and copy `fallout-ce` to this folder.
-
-- Install [SDL2](https://libsdl.org/download-2.0.php):
+- 下载并复制 `fallout-ce` 到该文件夹。
+- 下载汉化补丁压缩包，将其中 `localization/GBK/` 覆盖到 `Fallout/data/text/english/`。
+- 确认 `fonts/chs/font.ini` 中 `encoding=GBK`。
+- 安装 [SDL2](https://libsdl.org/download-2.0.php)：
 
 ```console
 $ sudo apt install libsdl2-2.0-0
 ```
 
-- Run `./fallout-ce`.
+- 运行 `./fallout-ce`。
 
-### macOS
+#### macOS
 
-> **NOTE**: macOS 10.11 (El Capitan) or higher is required. Runs natively on Intel-based Macs and Apple Silicon.
+> **注意**：需要 macOS 10.11 (El Capitan) 或更高版本。原生支持 Intel Mac 和 Apple Silicon。
 
-- Use Windows installation as a base - it contains data assets needed to play. Copy `Fallout` folder somewhere, for example `/Applications/Fallout`.
-
-- Alternatively you can use Fallout from MacPlay/The Omni Group as a base - you need to extract game assets from the original bundle. Mount CD/DMG, right click `Fallout` -> `Show Package Contents`, navigate to `Contents/Resources`. Copy `GameData` folder somewhere, for example `/Applications/Fallout`.
-
-- Or if you're a Terminal user and have Homebrew installed you can extract the needed files from the GoG installer:
+- 以 Windows 版游戏资源为基础。将 `Fallout` 文件夹复制到合适位置，例如 `/Applications/Fallout`。
+- 或者从 MacPlay/The Omni Group 版本提取资源：挂载 CD/DMG，右键 `Fallout` -> 显示包内容，进入 `Contents/Resources`，复制 `GameData` 文件夹到 `/Applications/Fallout`。
+- 或者通过 Homebrew + innoextract 从 GoG 安装包提取：
 
 ```console
 $ brew install innoextract
@@ -50,43 +100,46 @@ $ innoextract ~/Downloads/setup_fallout_2.1.0.18.exe -I app
 $ mv app /Applications/Fallout
 ```
 
-- Download and copy `fallout-ce.app` to this folder.
+- 下载并复制 `fallout-ce.app` 到该文件夹。
+- 下载汉化补丁压缩包，将其中 `localization/GBK/` 覆盖到 `Fallout/data/text/english/`。
+- 确认 `fonts/chs/font.ini` 中 `encoding=GBK`。
+- 运行 `fallout-ce.app`。
 
-- Run `fallout-ce.app`.
+#### Android
 
-### Android
+> **注意**：Fallout 是为鼠标操作设计的游戏，部分操作需要精确的指针定位，触屏体验不如鼠标。当前控制方案类似触控板：
+> - 单指滑动移动鼠标指针
+> - 单指点击 = 左键
+> - 双指点击 = 右键（切换指针模式）
+> - 双指滑动 = 滚动当前视图（地图、世界地图、物品栏等）
 
-> **NOTE**: Fallout was designed with mouse in mind. There are many controls that require precise cursor positioning, which is not possible with fingers. Current control scheme resembles trackpad usage:
-> - One finger moves mouse cursor around.
-> - Tap one finger for left mouse click.
-> - Tap two fingers for right mouse click (switches mouse cursor mode).
-> - Move two fingers to scroll current view (map view, worldmap view, inventory scrollers).
+> **注意**：从 Android 系统角度，Release 版和 Debug 版被视为不同应用，各自需要独立的游戏资源和存档。普通玩家只需使用 Release 版即可。
 
-> **NOTE**: From Android standpoint release and debug builds are different apps. Both apps require their own copy of game assets and have their own savegames. This is intentional. As a gamer just stick with release version and check for updates.
+- 以 Windows 版游戏资源为基础。将 `Fallout` 文件夹复制到设备，例如 `Downloads`。你需要 `master.dat`、`critter.dat` 和 `data` 文件夹。注意文件名需保持小写（参见下方的 [Configuration](#configuration)）。
+- 下载 `fallout-ce.apk` 并复制到设备，用文件管理器打开安装（需允许未知来源安装）。
+- 首次运行游戏时会弹出文件选择器，选择第一步中的文件夹。等待数据复制完成（约 30 秒），游戏将自动启动。
+- 安装完成后，将本仓库 `localization/GBK/` 通过文件管理器覆盖到设备的游戏数据目录 `data/text/english/` 下。
+- 确认 `fonts/chs/font.ini` 中 `encoding=GBK`。
 
-- Use Windows installation as a base - it contains data assets needed to play. Copy `Fallout` folder to your device, for example to `Downloads`. You need `master.dat`, `critter.dat`, and `data` folder. Watch for file names - keep (or make) them lowercased (see [Configuration](#configuration)).
+#### iOS
 
-- Download `fallout-ce.apk` and copy it to your device. Open it with file explorer, follow instructions (install from unknown source).
+> **注意**：触控方式参见 Android 说明。
 
-- When you run the game for the first time it will immediately present file picker. Select the folder from the first step. Wait until this data is copied. A loading dialog will appear, just wait for about 30 seconds. The game will start automatically.
+- 下载 `fallout-ce.ipa`，使用侧载工具（[AltStore](https://altstore.io/) 或 [Sideloadly](https://sideloadly.io/)）安装到设备。也可以自行从源码构建并签名。
+- 首次运行游戏会看到 "Could not find the master datafile..." 的错误提示，这一步是为了让 iOS 通过文件共享暴露该应用。
+- 使用 Finder（macOS Catalina 及更新版本）或 iTunes（Windows 和 macOS Mojave 及更早版本）将 `master.dat`、`critter.dat` 和 `data` 文件夹复制到 "Fallout" 应用中（[操作指南](https://support.apple.com/HT210598)）。注意文件名保持小写（参见下方的 [Configuration](#configuration)）。
+- 通过文件共享将本仓库 `localization/GBK/` 复制到应用的 `data/text/english/` 目录下。
+- 确认 `fonts/chs/font.ini` 中 `encoding=GBK`。
 
-### iOS
-
-> **NOTE**: See Android note on controls.
-
-- Download `fallout-ce.ipa`. Use sideloading applications ([AltStore](https://altstore.io/) or [Sideloadly](https://sideloadly.io/)) to install it to your device. Alternatively you can always build from source with your own signing certificate.
-
-- Run the game once. You'll see error message saying "Could not find the master datafile...". This step is needed for iOS to expose the game via File Sharing feature.
-
-- Use Finder (macOS Catalina and later) or iTunes (Windows and macOS Mojave or earlier) to copy `master.dat`, `critter.dat`, and `data` folder to "Fallout" app ([how-to](https://support.apple.com/HT210598)). Watch for file names - keep (or make) them lowercased (see [Configuration](#configuration)).
+---
 
 ## Configuration
 
-The main configuration file is `fallout.cfg`. There are several important settings you might need to adjust for your installation. Depending on your Fallout distribution main game assets `master.dat`, `critter.dat`, and `data` folder might be either all lowercased, or all uppercased. You can either update `master_dat`, `critter_dat`, `master_patches` and `critter_patches` settings to match your file names, or rename files to match entries in your `fallout.cfg`.
+主配置文件为 `fallout.cfg`。根据你的游戏发行版本，`master.dat`、`critter.dat` 和 `data` 文件夹的文件名可能是全小写或全大写。你可以修改 `master_dat`、`critter_dat`、`master_patches` 和 `critter_patches` 设置以匹配你的文件名，或者将文件重命名为与 `fallout.cfg` 中的条目一致。
 
-The `sound` folder (with `music` folder inside) might be located either in `data` folder, or be in the Fallout folder. Update `music_path1` setting to match your hierarchy, usually it's `data/sound/music/` or `sound/music/`. Make sure it match your path exactly (so it might be `SOUND/MUSIC/` if you've installed Fallout from CD). Music files themselves (with `ACM` extension) should be all uppercased, regardless of `sound` and `music` folders.
+`sound` 文件夹（内含 `music` 文件夹）可能位于 `data` 文件夹内，也可能直接在 Fallout 根目录下。修改 `music_path1` 以匹配你的目录结构，通常为 `data/sound/music/` 或 `sound/music/`。音乐文件本身（`ACM` 扩展名）应保持大写，不受 `sound` 和 `music` 文件夹大小写影响。
 
-The second configuration file is `f1_res.ini`. Use it to change game window size and enable/disable fullscreen mode.
+第二个配置文件是 `f1_res.ini`，用于修改游戏窗口大小和全屏模式：
 
 ```ini
 [MAIN]
@@ -95,21 +148,39 @@ SCR_HEIGHT=720
 WINDOWED=1
 ```
 
-Recommendations:
-- **Desktops**: Use any size you see fit.
-- **Tablets**: Set these values to logical resolution of your device, for example iPad Pro 11 is 1668x2388 (pixels), but it's logical resolution is 834x1194 (points).
-- **Mobile phones**: Set height to 480, calculate width according to your device screen (aspect) ratio, for example Samsung S21 is 20:9 device, so the width should be 480 * 20 / 9 = 1067.
+推荐设置：
+- **桌面端**：使用任意你觉得合适的分辨率。
+- **平板**：设置为设备的逻辑分辨率，例如 iPad Pro 11 的像素分辨率为 1668x2388，但逻辑分辨率为 834x1194。
+- **手机**：将高度设为 480，根据屏幕宽高比计算宽度，例如三星 S21 为 20:9，宽度应为 480 * 20 / 9 = 1067。
 
-In time this stuff will receive in-game interface, right now you have to do it manually.
+目前这些设置需要手动修改，未来会提供游戏内界面配置。
+
+---
 
 ## Contributing
 
-Here is a couple of current goals. Open up an issue if you have suggestion or feature request.
+当前目标：
 
-- **Update to v1.2**. This project is based on Reference Edition which implements v1.1 released in November 1997. There is a newer v1.2 released in March 1998 which at least contains important multilingual support.
+- **更新到 v1.2**：本项目基于 1997 年 11 月发布的 Reference Edition（v1.1）。1998 年 3 月发布的 v1.2 至少包含了重要的多语言支持。
+- **反向移植 Fallout 2 功能**：Fallout 2（含部分 Sfall 扩展）为原版引擎添加了许多优秀的改进和生活质量增强，其中很多值得反向移植到 Fallout 1。请记住这是另一款游戏，玩法平衡略有不同（而平衡本身就是一件很微妙的事）。
 
-- **Backport some Fallout 2 features**. Fallout 2 (with some Sfall additions) added many great improvements and quality of life enhancements to the original Fallout engine. Many deserve to be backported to Fallout 1. Keep in mind this is a different game, with slightly different gameplay balance (which is a fragile thing on its own).
+如果你有建议或功能请求，请提交 Issue。
+
+---
+
+## 技术栈
+
+- **翻译**：AI 辅助（`translator.py`）
+- **编码转换**：iconv + `converter.py`（UTF-8 → GBK）
+- **引擎**：Fallout CE（C++17，中文字体渲染修复）
+- **字体渲染**：FreeType 2.0
+
+---
 
 ## License
 
-The source code is this repository is available under the [Sustainable Use License](LICENSE.md).
+引擎源码遵循 [Sustainable Use License](LICENSE.md)。
+
+- **游戏**：© Interplay Productions / Bethesda Softworks
+- **翻译**：原创作品，仅供教育用途
+- **要求**：拥有原版游戏
