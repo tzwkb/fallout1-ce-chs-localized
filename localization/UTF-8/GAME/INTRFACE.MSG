@@ -1,0 +1,6 @@
+#
+#   Interface text from INTFACE.C
+#
+{100}{}{潜行}
+{101}{}{等级}
+{102}{}{化学}
