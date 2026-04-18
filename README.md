@@ -20,7 +20,7 @@ localization/
   │   ├── GAME/
   │   ├── CREDITS.TXT
   │   └── QUOTES.TXT
-  └── ENGLISH_BACKUP/   ← 原始英文备份
+  └── ENGLISH_BACKUP/   ← 原始英文备份（用于对照或恢复）
 
 localization_tools/     ← 翻译工具
   ├── translator.py     ← AI 批量翻译脚本
@@ -44,6 +44,8 @@ localization_tools/     ← 翻译工具
 Release 页面：[yurikaka/fallout1-ce-chs/releases](https://github.com/yurikaka/fallout1-ce-chs/releases)
 
 ### 下载完整中文版游戏包
+
+> **Windows 用户直接下载下方 zip 即可，无需单独下载上方引擎。**
 
 | 内容 | 下载 |
 |------|------|
