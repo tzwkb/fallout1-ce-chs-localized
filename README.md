@@ -58,82 +58,31 @@ Release 页面：[yurikaka/fallout1-ce-chs/releases](https://github.com/yurikaka
 
 ### 各平台安装步骤
 
-> 以下在 [Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce) 原版安装指南的基础上，补充了中文版特有的字体与汉化文件配置。
+#### Windows（推荐）
 
-#### Windows
+上方 release 中的 zip 为**开箱即用的完整中文版游戏包**（仅 Windows）。
 
-1. 下载 `fallout-ce-windows-x64.zip`（或 x86），解压得到 `fallout-ce.exe` 和 `fonts/` 文件夹。
-2. 将上述文件复制到你的 `Fallout` 游戏目录（与 `falloutw.exe` 同级）。
-3. 下载汉化补丁压缩包，将其中 `localization/GBK/` 内的全部文件覆盖到游戏目录的 `data/text/english/` 下。
-4. 确认 `fonts/chs/font.ini` 中 `encoding=GBK`。
-5. 运行 `fallout-ce.exe`。
+1. 拥有原版《辐射1》（需 `master.dat` 和 `critter.dat`）
+2. 下载 zip 并解压
+3. 将原版 `master.dat` 和 `critter.dat` 复制到解压目录
+4. 运行 `fallout-ce.exe`
+
+> `fonts/chs/font.ini` 中 `encoding=GBK` 已默认配置。
+
+#### macOS / Linux / Android / iOS
+
+上方 zip **仅含 Windows 版引擎**。其他平台需：
+
+1. 从 [yurikaka/fallout1-ce-chs/releases](https://github.com/yurikaka/fallout1-ce-chs/releases) 下载对应平台的引擎（`.app` / Linux 二进制 / `.apk` / `.ipa`）
+2. 按 [原版安装指南](https://github.com/alexbatalov/fallout1-ce) 准备游戏资源（`master.dat`、`critter.dat`、`data`）
+3. 获取汉化文件和字体：
+   - 下载上方 zip，提取其中的 `DATA/TEXT/ENGLISH/`（汉化文件）和 `fonts/chs/`（字体）
+   - 覆盖到对应平台的游戏目录
+   - 或直接从仓库 `localization/GBK/` 下载文件手动部署
+4. 确认 `fonts/chs/font.ini` 中 `encoding=GBK`
+5. 运行游戏
 
 **注意**：UTF-8 编码也能运行，但会导致对话框断行显示异常。**建议使用 GBK 编码版本。**
-
-#### Linux
-
-- 以 Windows 版游戏资源为基础（包含 `master.dat`、`critter.dat` 和 `data` 文件夹）。将 `Fallout` 文件夹复制到合适位置，例如 `/home/john/Desktop/Fallout`。
-- 或者从 GoG 安装包提取所需文件：
-
-```console
-$ sudo apt install innoextract
-$ innoextract ~/Downloads/setup_fallout_2.1.0.18.exe -I app
-$ mv app Fallout
-```
-
-- 下载完整中文版游戏包并解压到该文件夹。
-- 将原版 `master.dat` 和 `critter.dat` 复制到该文件夹。
-- 安装 [SDL2](https://libsdl.org/download-2.0.php)：
-
-```console
-$ sudo apt install libsdl2-2.0-0
-```
-
-- 运行 `./fallout-ce`。
-
-#### macOS
-
-> **注意**：需要 macOS 10.11 (El Capitan) 或更高版本。原生支持 Intel Mac 和 Apple Silicon。
-
-- 以 Windows 版游戏资源为基础。将 `Fallout` 文件夹复制到合适位置，例如 `/Applications/Fallout`。
-- 或者从 MacPlay/The Omni Group 版本提取资源：挂载 CD/DMG，右键 `Fallout` -> 显示包内容，进入 `Contents/Resources`，复制 `GameData` 文件夹到 `/Applications/Fallout`。
-- 或者通过 Homebrew + innoextract 从 GoG 安装包提取：
-
-```console
-$ brew install innoextract
-$ innoextract ~/Downloads/setup_fallout_2.1.0.18.exe -I app
-$ mv app /Applications/Fallout
-```
-
-- 下载完整中文版游戏包并解压到该文件夹。
-- 将原版 `master.dat` 和 `critter.dat` 复制到该文件夹。
-- 运行 `fallout-ce.app`。
-
-#### Android
-
-> **注意**：Fallout 是为鼠标操作设计的游戏，部分操作需要精确的指针定位，触屏体验不如鼠标。当前控制方案类似触控板：
-> - 单指滑动移动鼠标指针
-> - 单指点击 = 左键
-> - 双指点击 = 右键（切换指针模式）
-> - 双指滑动 = 滚动当前视图（地图、世界地图、物品栏等）
-
-> **注意**：从 Android 系统角度，Release 版和 Debug 版被视为不同应用，各自需要独立的游戏资源和存档。普通玩家只需使用 Release 版即可。
-
-- 以 Windows 版游戏资源为基础。将 `Fallout` 文件夹复制到设备，例如 `Downloads`。你需要 `master.dat`、`critter.dat` 和 `data` 文件夹。注意文件名需保持小写（参见下方的 [Configuration](#configuration)）。
-- 下载 `fallout-ce.apk` 并复制到设备，用文件管理器打开安装（需允许未知来源安装）。
-- 首次运行游戏时会弹出文件选择器，选择第一步中的文件夹。等待数据复制完成（约 30 秒），游戏将自动启动。
-- 将完整中文版游戏包中的 `DATA/TEXT/ENGLISH/` 通过文件管理器覆盖到设备的游戏数据目录下。
-- 确认 `fonts/chs/font.ini` 中 `encoding=GBK`。
-
-#### iOS
-
-> **注意**：触控方式参见 Android 说明。
-
-- 下载 `fallout-ce.ipa`，使用侧载工具（[AltStore](https://altstore.io/) 或 [Sideloadly](https://sideloadly.io/)）安装到设备。也可以自行从源码构建并签名。
-- 首次运行游戏会看到 "Could not find the master datafile..." 的错误提示，这一步是为了让 iOS 通过文件共享暴露该应用。
-- 使用 Finder（macOS Catalina 及更新版本）或 iTunes（Windows 和 macOS Mojave 及更早版本）将 `master.dat`、`critter.dat` 和 `data` 文件夹复制到 "Fallout" 应用中（[操作指南](https://support.apple.com/HT210598)）。注意文件名保持小写（参见下方的 [Configuration](#configuration)）。
-- 通过文件共享将完整中文版游戏包中的 `DATA/TEXT/ENGLISH/` 复制到应用的 `data/text/english/` 目录下。
-- 确认 `fonts/chs/font.ini` 中 `encoding=GBK`。
 
 ---
 
