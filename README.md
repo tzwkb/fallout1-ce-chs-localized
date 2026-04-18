@@ -31,7 +31,7 @@ localization_tools/     ← 翻译工具
 
 ## 安装与使用（中文版）
 
-### 下载编译好的中文版引擎
+### 下载支持中文的 Fallout CE 引擎
 
 | 平台 | 下载 |
 |------|------|
@@ -49,8 +49,8 @@ Release 页面：[yurikaka/fallout1-ce-chs/releases](https://github.com/yurikaka
 |------|------|
 | 完整中文版游戏包 | [fallout1-ce-chs-gbk.zip](https://github.com/tzwkb/fallout1-ce-chs-localized/releases/download/v1.0.0/fallout1-ce-chs-gbk.zip) |
 
-> 该压缩包为**开箱即用的完整中文版游戏包**，包含：
-> - 编译好的 Fallout CE 中文版引擎（`fallout-ce.exe`）
+> 该压缩包为**开箱即用的完整中文支持游戏包**，包含：
+> - 编译好的 Fallout CE 引擎（支持中文显示，`fallout-ce.exe`）
 > - 中文字体（`fonts/chs/`）
 > - 已部署的 GBK 汉化文本（`DATA/TEXT/ENGLISH/`）← 对应仓库 `localization/GBK/`
 > - 游戏配置文件
@@ -61,7 +61,7 @@ Release 页面：[yurikaka/fallout1-ce-chs/releases](https://github.com/yurikaka
 
 #### Windows（推荐）
 
-上方 release 中的 zip 为**开箱即用的完整中文版游戏包**（仅 Windows）。
+上方 release 中的 zip 为**开箱即用的完整中文支持游戏包**（仅 Windows）。
 
 1. 拥有原版《辐射1》（需 `master.dat` 和 `critter.dat`）
 2. 下载 zip 并解压
