@@ -1,0 +1,276 @@
+@首席程序员
+Tim Cain
+Chris Jones
+@程序员
+Jesse L. Reynolds
+Kevin Weatherman
+Nick Kesting
+Robert Hertenstein 2
+Jess Heinig
+Jason Taylor
+@Mac程序员
+Tim Hume
+@额外编程
+Mark Harrison (Lizard Byte)
+John Price
+Chris DeSalvo
+Mark Murakami
+Dan Spitzley
+Guido Henkel
+Michael Bernstein
+Thomas French
+@电影技术
+Paul Edelstein
+@安装程序/自动播放
+Darren Monahan
+@艺术总监
+Leonard Boyarsky
+@首席艺术家
+Jason Anderson
+Leonard Boyarsky
+Gary Platner
+@艺术家
+Robert Collier
+Michael Dean
+Tramell Ray Isaac
+Eddie Rainwater
+Scott Rodenhizer
+Sharon Shellman
+@额外艺术创作
+Peter Kroko
+Justin Sweet
+Joseph Cesario
+Cheryl Austin
+Jay Esparza (Tachyon)
+Geoff Gregor
+Arlene Sommers
+George Almond
+Erik Jamison
+Helena Wickberg
+James Doyle (Apples Animation)
+@粘土模型师
+Scott Rodenhizer
+@概念艺术家
+Tony Postma
+@首席设计师
+Chris Taylor
+@设计师
+David Hendee
+Scott Bennie
+Brian Freyermuth
+Scott Campbell
+@技术设计师
+Scott Everts
+@额外设计
+Robert Hertenstein 2
+Jess Heinig
+Nick Kesting
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Fred Hatch
+Evan Chantland
+Erick Lujan
+Dennis Presnell
+Feargus Urquhart
+@设计/对话
+Mark O'Green
+@原始游戏设计
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Jason Taylor
+Scott Campbell
+@制作人
+Tim Cain
+@助理制作人
+Fred Hatch
+@部门总监
+Feargus Urquhart
+@助理部门总监
+Jeremy Barnes
+@原始制作人
+Tom Decker
+@制作助理
+Jason G. Suinn
+@猴子男孩
+Mike "Paco" Greene
+@Mac协助
+Chris Benson
+@质量保证总监
+Chad Allison
+@质量保证助理总监
+Colin Totman
+@PC版首席测试员
+Ron Hodge
+Greg "Moose" Baumeister
+@PC版测试员
+Shanna SanPaolo
+Evan Chantland
+Ed Hyland
+Steve Reed
+James Chung
+Kaycee Vardaman
+Bill Field
+Richard Barker
+Rene Hakiki
+Erick Lujan
+Matt Kaupa
+Steve Victory
+Scot Humphreys
+Tim Anderson
+Darrell Jones
+@Mac版首席测试员
+Jim Dodds
+Matt Murakami
+Steve McLafferty
+@Mac版测试员
+Adam Chaney
+Dennis Presnell
+Savina Greene
+Kaycee Vardaman
+Scot Humphreys
+Mike Krueger
+Matt Golembiewski
+@信息系统技术员
+Bill Delk
+Steve Cabiness
+@兼容性总监
+Phuong Nguyen
+@兼容性技术员
+Marc Duran
+Dan Forsyth
+Derek Gibbs
+Aaron Olalz
+John Parker
+@音频总监
+Charles Deenen
+@音频母带
+Craig Duman
+@背景电视音乐
+Ronald Valdez
+@电影重录混音师
+Dave West
+@电影音效
+West Productions
+@拟音艺术家
+Doug Turner
+Gary Murello
+Larry Peacock
+@拟音编辑
+Caron Weidner
+@拟音混音师
+Debby Ruby
+@拟音混音师/艺术家
+Cecilia Perna
+@拟音录制于
+West Productions
+@拟音监督
+Charles Deenen
+Larry Peacock
+@音效编辑
+Michael Dickeson
+@音乐创作
+Mark Morgan
+@为
+Four Bars Entertainment
+@片头重录混音师
+Charles Deenen
+@音乐监督
+Brian Luzietti
+@音效库管理员
+Doug Rappaport
+Sergio Bustamante II
+Ron Valdez
+@音效设计
+Charles Deenen
+Gregory Allen
+Larry Peacock
+EFX
+Weddington
+Caron Weidner
+@语音编辑
+Doug Rappaport
+Sergio Bustamante II
+@语音制作人
+Fred Hatch
+@语音录音工程师
+Paul Hurtubise
+@语音监督
+Chris Borders
+@语音协调
+Julie Morgavi
+@语音对话录制于
+Hollywood Recording Services
+Hollywood, CA
+@语音指导
+Jamie Thomason
+@特别出演
+Charlie Adler
+@Harold
+Richard Dean Anderson
+@Killian
+Jeff Bennett
+@Loxley
+Clancy Brown
+@Rhombus
+Jim Cummings
+@Set, Gizmo, The Master
+Keith David
+@Decker
+Brad Garrett
+@Harry
+Tony Jay
+@The Lieutenant
+Tress MacNeille
+@Jain
+Ken Mars
+@Overseer
+Richard Moll
+@Cabbot
+Ron Perlman
+@Butch Harris, 旁白
+CCH Pounder
+@Vree
+Pam Segall
+@Nicole
+Tony Shalub
+@Aradesh
+Kath Soucie
+@Laura, The Master
+Cree Summer
+@Tandi
+David Warner
+@Morpheus
+Frank Welker
+@Maxson
+@额外语音工作由
+Max the Dog
+"也许"
+@演唱者 Ink Spots
+@由MCA Records提供
+@与Universal Music Special Markets, Inc.协商
+"MAYBE"
+@Allan Flynn和Frank Madden创作
+@经EMI Robbins Catalog Inc. (ASCAP)授权使用
+@警告：未经版权所有者明确书面许可，复制、复制或再现本程序或其任何部分均属违反联邦版权法。
+@公关经理
+Genevieve Ostergard
+@市场总监
+Paul Sackman
+@市场经理
+Mike Markin
+Craig Owens
+Michael Courtney
+@市场助理经理
+Tod Mack
+@交通经理
+Thom Dohner
+@感谢：Scott Everts为Quotes文件、Bomberman、Quake、Diablo、Warcraft II、各种电影原声带、Brian Eno、苏打水冰箱（感谢Gus & Rusty!）、圣诞精神（加油圣诞老人!）、Demo猫、Nicol、Tracy、Mary & Adam、Lisa（道德支持）、Jamal、T-Ray的妈妈、两个Donalds、Teresa Brooks、Zeb Cook、Chris Avellone、Lunch Money、The Lunch Court、Weez、Weaz、Irvine Spectrum、Wiz War、Dragon Dice、B5、X-Files、Xena、Buffy、The Simpsons、ER、Jeepin'和最后一分钟的说话狗找到了那个该死的bug！
+@特别感谢Fallout网页公告板成员提供的关于演示的评论、建议和bug报告。
+@感谢您的反馈！
+@就是这样！
+@没有更多的制作人员名单
+@停止寻找
+@Fallout由Interplay Productions、Team Fallout和字母Q带给您。
+祝您愉快！
