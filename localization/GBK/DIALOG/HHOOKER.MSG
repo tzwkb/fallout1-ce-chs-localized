@@ -1,0 +1,168 @@
+# These are various People combined into one file.
+# They are split into the groups of what they are.
+
+################
+# Flat monotonic people. Nothing interesting. they are apathic.
+{106}{}{你看到一个女人。}
+{107}{}{你看到一个男人。}
+
+################
+# The drunk has slurred speech. he's been hitting the booze a bit too hard
+# and is having problems standing and remembering his name
+
+{100}{}{你看到一个醉汉。}
+{110}{}{让我独自悲伤吧。}
+{111}{}{你是我最好的朋友。}
+# best friend (slurred)
+
+{112}{}{你是...（打嗝）我在哪儿？}
+{113}{}{你是谁？}
+{114}{}{我认识你吗？}
+{115}{}{我感觉有点恶心。}
+{116}{}{酒钱算我的，我是说算你的。}
+{117}{}{为什么我看到两个你？}
+{118}{}{站住，小伙子！}
+# laddy is male
+
+{119}{}{站住，姑娘！}
+
+#################
+# Customer and gamble are both genders. Consider male for translation. They are agitated, yet happy to
+# be spending all their money. Consider the people in Las Vegas gambling away their money.
+
+{101}{}{你看到一个顾客。}
+{104}{}{你看到一个赌徒。}
+{120}{}{滚开，废物！}
+# == "Get out of here loser"
+
+{121}{}{你降低了这里的档次。}
+# == "you are dropping the class of this place"
+
+{122}{}{走开，你会带来霉运！}
+# == "get away. you will bring me bad luck"
+
+{123}{}{别打扰我集中注意力。}
+{124}{}{我一定能赢这个该死的游戏！}
+{125}{}{你玩得好吗？}
+{126}{}{你看到了吗？那是不可能的！}
+# referring to dice roll
+
+{127}{}{我觉得他们在作弊。}
+# they is referring to the owners of the Maltese Falcon, the drinking/gambling establishment
+# They is Male
+
+{128}{}{这才是好赔率。}
+{129}{}{这绝对稳赢。}
+# referring to a bet.
+
+{130}{}{什么？我怎么会输？}
+{131}{}{这张桌子被诅咒了！}
+# == "this table is cursed/unlucky"
+
+{132}{}{我很忙。}
+{133}{}{你没看到我在玩游戏吗？}
+{134}{}{下注或者走开。}
+
+#################
+# This is a sleazy prostitute who will have sex with anyone who will give
+# her $20. She will be talking a sexy, but lewd voice.
+
+{102}{}{你看到一个非常漂亮的女士。}
+{105}{}{你看到一个女人，她似乎很忙。}
+{135}{}{离我们远点，否则我就叫保安了。}
+{136}{}{小心点，我是弗莱副警长的好友。}
+{137}{}{你介意吗？}
+{138}{}{不准偷窥！}
+# == "I don't allow people to watch me having sex with someone else."
+
+{139}{}{我不接待多人。}
+# == "I don't have sex with more than one person."
+
+{140}{}{我太累了，接不了下一位。}
+# referring to having another round of sex.
+
+{141}{}{你在做梦，伙计，快滚！}
+{142}{}{滚出去！}
+{143}{}{你以为你在干什么？}
+{144}{}{注意你的礼貌！}
+{145}{}{我会报警的！}
+{146}{}{想都别想！}
+{147}{}{出去！}
+{148}{}{滚开！}
+{149}{}{你在看什么？}
+{150}{}{你介意吗？}
+
+#####################
+# This is a customer for the Hooker. Gender is male. He is aburpt and is really not
+# interested in the player, only having sex with the prostitute
+
+{109}{}{你看到一个佣兵。}
+{151}{}{滚出我们的房间！}
+{152}{}{出去！}
+{153}{}{你是组合的一部分吗？}
+# == "are you part of the group of three/threesome/orgy"
+
+{154}{}{滚开，变态！}
+# == "get out of here, perverse person"
+
+{155}{}{你有什么问题？}
+{156}{}{滚开，否则我会生气。}
+# "Beat it" == "get out of here"
+
+{157}{}{找你自己的去。}
+# ==  "get your own hooker"
+
+{158}{}{她是我的。}
+# "She" is referring to the hooker.
+
+######################
+# Gambler is Male. The gambler has lost a lot of money and is really upset about
+# having done so.
+
+{108}{}{你看到一个非常沮丧的赌徒。}
+{159}{}{该死！}
+{160}{}{你在作弊吗？}
+# referring to the player
+
+{161}{}{那本该是我的。}
+# someone else won a bet, this person thinks they should have won instead
+
+{162}{}{差一点！}
+# nearly got his number on the roulette wheel
+
+{163}{}{刚好错过。}
+# pulled up a 19 to the dealers 20 in blackjack
+
+{164}{}{规则是什么来着？}
+# in referrence to a gambling game
+
+{165}{}{我以前很擅长这个。}
+# in referrence to a gambling game
+
+{166}{}{谢谢你什么都没做。}
+{167}{}{我不敢相信！}
+{168}{}{我故意的。}
+# he meant to lose.
+
+######################
+# This is the dealer/roulette shooter for the casino. Monotonic voice and trying to
+# pretend to be happy about being here.
+
+{103}{}{你看到一个长相奇怪的男人。}
+{169}{}{下注吧。}
+{170}{}{先生，请把手拿开。}
+# in referrence to taking money from the table while the bet is going on
+
+{171}{}{赢家！}
+{172}{}{抱歉各位，下次再试。}
+# maybe next time someone can win
+
+{173}{}{又一个赢家！}
+{174}{}{手拿开！}
+# don't take the dice off the table while someone is rolling them
+
+{175}{}{轮到您了，先生。}
+# your turn to bet
+{176}{}{抱歉，这是无效的赌注。}
+{177}{}{就是这样。}
+{178}{}{还有人吗？}

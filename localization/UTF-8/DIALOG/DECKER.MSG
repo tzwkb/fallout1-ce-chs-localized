@@ -1,0 +1,272 @@
+{100}{}{德克不想再和你说话了。}
+{101}{}{你看到德克。}
+{102}{}{德克太忙了，没空和你说话。先去完成你的任务，稍后再来。}
+{103}{DECK_1}{
+So.  You're looking for a job.  How fortunate.  I have one that needs doing.  Ahh, but where are my manners?  What's your name?}
+{104}{}{我是}
+{105}{}{。}
+{106}{}{这关你什么事？}
+{107}{DECK_2}{
+Well, the pleasantries are now concluded.  Do you wish to hear about the job?}
+{108}{}{这就是我来的原因。}
+{109}{}{不太特别。}
+{110}{DECK_3}{
+Background:  There's a certain merchant who's . . . how to phrase this . . . not cooperating fully with the Underground.}
+{111}{}{那任务呢？}
+{112}{DECK_4}{
+Quite simple.  Hunt down the merchant and his wife and exterminate them. }
+{113}{}{你是说杀了他们？}
+{114}{}{这个任务多少钱？}
+{115}{}{我做不到！}
+{116}{DECK_5}{
+All a matter of semantics, but yes.  Kill them.  Will you take the job?}
+{117}{}{嗯，当然——为什么不呢？}
+{118}{}{不！那是错误的！}
+{119}{}{多少钱？}
+{120}{DECK_6}{
+Oh, excellent.  The standard pay is 500 Scripts to open, and another 2500 . . . to close.}
+{121}{}{我在哪里可以找到这个商人？}
+{122}{DECK_7}{
+They live in the Heights, on Barter Street and Thunder Avenue.  Complete the job and return.}
+{123}{}{好的，我会去的。}
+{124}{}{你怎么知道我杀了他们？}
+{125}{}{我不这么认为。}
+{126}{DECK_8}{
+Quite excellent.  My assistant will renumerate you on the way out.  Please, close the door behind you.}
+{127}{deck_9}{Trust me.  I'll know.}
+{128}{}{好的，我会做的。}
+{129}{}{算了。}
+{130}{DECK_10}{
+I must confess feeling a bit . . . disappointed in you.  But these things happen.  You will remember this is confidential.  Good day.}
+{131}{DECK_11}{
+It's standard pay.  500 caps to start, another 2500 when the job is done.  Will you do it?}
+{132}{}{不，谢谢。}
+{133}{}{是的，我会做的。}
+{134}{DECK_12}{
+Very nice.  The merchant lives in the Heights, on Barter Street and Thunder Avenue.  Your initial pay will be handed to you on your way out.}
+{135}{DECK_13}{
+Everything is my business in the Hub.  Either tell me, or you may leave.}
+{136}{}{我的名字是}
+{137}{}{。}
+{138}{}{我什么都不会告诉你。}
+{139}{DECK_14}{
+I see . . . My assistant will show you to the door.}
+{140}{DECK_15}{
+I'm very proud of you.  You're ruthless, an attribute I admire.  Kane will give you your payment.  I hope you're available in the future.}
+{141}{}{我可以问你几个问题吗？}
+{142}{}{谢谢。}
+{143}{DECK_16}{
+Under the circumstances, yes.}
+{144}{}{集市里有什么？}
+{145}{}{听到什么传闻了吗？}
+{146}{}{没事。}
+{147}{Deck_16b}{Keep it brief, please.}
+{148}{DECK_17}{
+The Merchant Market is in the center of town, surrounded by a number of establishments.  You have the Heights to the west, and Old Town to the east.}
+{149}{}{是什么样的场所？}
+{150}{}{谢谢你的信息。我可以再问几个问题吗？}
+{151}{DECK_18}{
+You're in the Maltese Falcon.  There's also the All in One Store, the Armory, the Friendly Lending Company, the police and, unfortunately, the Children of the Cathedral hospital.}
+{152}{}{听起来你不太喜欢孩子们。怎么回事？}
+{153}{}{谢谢。我可以再问几个问题吗？}
+{154}{DECK_19}{
+They . . . encroach.  Let's leave it at that, shall we?}
+{155}{}{好的。我可以问你几个问题吗？}
+{156}{DECK_20}{
+I'm not a tour guide.  Go see for yourself.}
+{157}{}{我可以再问几个问题吗？}
+{158}{}{确实如此。导游会更好。}
+{159}{DECK_21}{
+No.  Please get your payment and leave.}
+{160}{DECK_22}{
+Pardon me? }
+{161}{}{你听到我说的了。}
+{162}{}{没什么。我可以再问几个问题吗？}
+{163}{DECK_23}{
+You are arrogant.  My assistant will show you through . . . I mean . . . to the door.}
+{164}{deck_24}{No.}
+{165}{}{那么，我可以问你别的事情吗？}
+{166}{}{你是个脾气暴躁的人。}
+{167}{DECK_25}{
+Someone appears to be stealing whole caravans from the Far Go Traders.  And the Thieves' Circle is causing their normal minor difficulties.}
+# Line 168 has been changed due to gender issues. See lines 232-233.
+{168}{}{}
+{169}{}{当然。}
+{170}{}{绝对不可能！}
+{171}{DECK_27}{
+Excellent.  You see, the last job I gave you was a test and you did exceedingly well.  Now comes a job of importance.}
+{172}{}{是什么？}
+{173}{}{听起来很吓人。我不感兴趣。}
+{174}{DECK_28}{
+As you may know, the Children of the Cathedral have been gaining influence in this town, and frankly, I won't stand for it.}
+{175}{}{那么你想让我做什么？}
+{176}{DECK_29}{
+A small matter.  Kill the High Priestess, Jain.  Once she's gone, this little nuisance will be ended.  Interested?}
+{177}{}{当然。}
+{178}{}{但那是不道德的！}
+{179}{DECK_30}{
+I believe I'm beginning to like you.  The pay is 1000 up front and 4000 upon completion.  And trust me, I'll know when it's done.}
+{180}{}{好的。}
+{181}{DECK_31}{
+Talk to Kane on your way out.  He'll provide you with details.}
+{182}{DECK_32}{
+And killing the merchant wasn't?}
+{183}{}{好吧，我会做的。}
+{184}{}{我不在乎。我不会做的。}
+{185}{DECK_33}{
+The pay is 1000 in advance and 4000 upon . . . execution.  And trust me, I'll know when it's over.}
+{186}{}{好的。}
+# Line 187 has been changed due to gender issues. See 234-235.
+{187}{}{}
+{188}{DECK_35}{
+What a pity.  Are you certain you won't even hear what the job is?}
+{189}{}{是的，我不会做的。}
+{190}{}{好的，是什么？}
+{191}{DECK_36}{Then we have nothing more to discuss.}
+{192}{DECK_37}{Exceptional job.  I believe the religious faction shall not interfere anymore.  Speak with Kane for your reward.  My thanks -- and I will certainly keep you in mind in the future.}
+{193}{DECK_38}{Put that down.}
+{194}{DECK_39}{I am quite a patient man, but even I have limits.  Kane, teach this simpleton a lesson.}
+{195}{DECK_40}{Stop that.}
+{196}{DECK_42}{Talk to Kane about that.  He can tell you more.}
+{197}{DECK_43}{As I said . . .}
+{198}{DECK_44}{Like I said . . .}
+{199}{DECK_45}{I already told you . . .}
+{200}{DECK_46}{Weren't you listening to me?  I said . . .}
+{201}{DECK_47}{Be advised: I am unaccustomed to repeating myself.}
+{202}{DECK_48}{I will not say that again.}
+{203}{DECK_49}{You have no need to know anything else about me.}
+{204}{DECK_50}{Most people do not bandy the name of my organization around lightly.  We control the Hub.}
+{205}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
+{206}{DECK_52}{They steal from the merchants and give to the poor, or some such nonsense.  They are inconsequential to me.  That old mutant, Harold would know more.}
+{207}{DECK_53}{He's the head of the police.  Nice guy, if you like the straight arrow, honest type.  Not like his father; now there was a loyal man.}
+{208}{DECK_54}{Harold's been around for some time.  He's over in Old Town.  A good source for certain types of information.}
+{209}{DECK_55}{They control the water.  Go to the south end of the Merchant Market, you'll find them there.}
+{210}{DECK_56}{He's the head of the Water Merchants.}
+{211}{DECK_57}{They used to control the hospital until the Children took over.  Now they sit and brood in their warehouse - very strange.  You will find them at the northwest end of the Merchant Market.}
+{212}{DECK_58}{He's the head of the Crimson Caravan.}
+{213}{DECK_59}{They're the last of the merchants, and I mean that literally.  Small time stuff, mostly.  Look northeast of the Merchant Market.}
+{214}{DECK_60}{Amusing.  He considers himself the leader of the Far Go Traders.  More of a figurehead, actually.  He knows better than to interfere with my business.}
+{215}{DECK_61}{She's in charge of the Weapons Store.}
+{216}{DECK_62}{Something is making the Far Go Traders' caravans disappear.  I'd like to know the cause, since it does disrupt a piece of my business.}
+{217}{Deck_63}{It's in the center of town.}
+{218}{DECK_64}{Myths and legends.  The Death Claw is supposedly a ghost or something.}
+{219}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
+{220}{DECK_66}{Most merchants live there.  Simply go west from here.}
+{221}{DECK_67}{An annoying organization.  Soon they may need a demonstration in the management of power.}
+{222}{DECK_68}{Morpheus is the head of the Children of the Cathedral.  He resides down in the Boneyard.}
+{223}{DECK_69}{She's presently the head of the Children of the Cathedral in the Hub.  I've reason to believe that may change soon.}
+{224}{DECK_70}{One of the fabrications of the Children.  He's supposedly some minor deity, or something.}
+{225}{DECK_71}{It's a small place that sells . . . fair weapons.  Over by the Far Go Traders.}
+{226}{DECK_72}{Just out the door and to the north.  You can't miss it.}
+{227}{DECK_73}{That's not important.}
+{228}{DECK_74}{What?  That isn't important now.}
+{229}{DECK_75}{Really.  Now why would I want to do that?}
+{230}{}{看来你已经解决了我的副手。我得亲自处理你。}
+{231}{}{很高兴见到你，格林警长！看来你是来告别的。}
+
+#
+# TRANSLATION NOTE: The following groups of  lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{232}{DECK_26}{Good day again, my friend. I have another job for you.
+ Are you interested?}
+{233}{DECK_26}{Good day again, my friend. I have another job for you.
+ Are you interested?}
+
+{234}{DECK_34}{And I had such hopes for you!
+ But I can't have you warning the Children. Kane, remove our friend here
+ and pass along some instructions on silence.}
+{235}{DECK_34}{And I had such hopes for you!
+ But I can't have you warning the Children. Kane, remove our friend here
+ and pass along some instructions on silence.}
+
+# Decker Tell-Me-Abouts generic responses
+{980}{DECK_73}{That's not important.}
+{981}{DECK_74}{What?  That isn't important now.}
+
+#
+# Decker Tell-Me-Abouts
+#
+
+{1000}{}{德克}
+{1001}{}{地下}
+{1002}{}{马耳他}
+{1003}{}{小偷}
+{1004}{}{贾斯汀}
+{1005}{}{哈罗德}
+{1006}{}{商人}
+{1007}{}{达伦}
+{1008}{}{深红}
+{1009}{}{德米特里}
+{1010}{}{远}
+{1011}{}{布奇}
+{1012}{}{贝丝}
+{1013}{}{失踪}
+{1014}{}{市场}
+{1015}{}{爪}
+{1016}{}{镇}
+{1017}{}{高地}
+{1018}{}{大教堂}
+{1019}{}{莫菲斯}
+{1020}{}{简}
+{1021}{}{大师}
+{1022}{}{商店}
+{1023}{}{一体化}
+{1024}{}{猎鹰}
+{1025}{}{夜总会}
+{1026}{}{格林}
+{1027}{}{高塔}
+{1028}{}{商队}
+{1029}{}{罗马拉}
+{1030}{}{去}
+{1031}{}{商人}
+{1032}{}{哈里斯}
+{1033}{}{死亡}
+{1034}{}{死亡爪}
+{1035}{}{旧}
+{1036}{}{旧镇}
+{1037}{}{孩子们}
+{1038}{}{所有}
+
+{1100}{DECK_49}{You have no need to know anything else about me.}
+{1101}{DECK_50}{Most people do not bandy the name of my organization around lightly.  We control the Hub.}
+{1102}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
+{1103}{DECK_52}{They steal from the merchants and give to the poor, or some such nonsense.  They are inconsequential to me.  That old mutant, Harold would know more.}
+{1104}{DECK_53}{He's the head of the police.  Nice guy, if you like the straight arrow, honest type.  Not like his father, now there was a loyal man.}
+{1105}{DECK_54}{Harold's been around for some time.  He's over in Old Town.  A good source for certain types of information.}
+{1106}{DECK_55}{They control the water.  Go to the south end of the Merchant Market, you'll find them there.}
+{1107}{DECK_56}{He's the head of the Water Merchants.}
+{1108}{DECK_57}{They used to control the hospital until the Children took over.  Now they sit and brood in their warehouse - very strange.  You will find them at the northwest end of the Merchant Market.}
+{1109}{DECK_58}{He's the head of the Crimson Caravan.}
+{1110}{DECK_59}{They're the last of the merchants, and I mean that literally.  Small time stuff, mostly.  Look northeast of the Merchant Market.}
+{1111}{DECK_60}{Amusing.  He considers himself the leader of the Far Go Traders.  More of a figurehead, actually.  He knows better than to interfere with my business.}
+{1112}{DECK_61}{She's in charge of the Weapons Store.}
+{1113}{DECK_62}{Something is making the Far Go Traders' caravans disappear.  I'd like to know the cause, since it does disrupt a piece of my business.}
+{1114}{Deck_63}{It's in the center of town.}
+{1115}{DECK_64}{Myths and legends.  The Death Claw is supposedly a ghost or something.}
+{1116}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
+{1117}{DECK_66}{Most merchants live there.  Simply go west from here.}
+{1118}{DECK_67}{An annoying organization.  Soon they may need a demonstration in the management of power.}
+{1119}{DECK_68}{Morpheus is the head of the Children of the Cathedral.  He resides down in the Boneyard.}
+{1120}{DECK_69}{She's presently the head of the Children of the Cathedral in the Hub.  I've reason to believe that may change soon.}
+{1121}{DECK_70}{One of the fabrications of the Children.  He's supposedly some minor diety, or something.}
+{1122}{DECK_71}{It's a small place that sells . . . fair weapons.  Over by the Far Go Traders.}
+{1123}{DECK_72}{Just out the door and to the north.  You can't miss it.}
+{1124}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
+{1125}{DECK_51}{My mother, finest woman I've ever known, gave me the idea for this, the finest entertainment establishment in all the Hub.}
+{1126}{DECK_53}{He's the head of the police.  Nice guy, if you like the straight arrow, honest type.  Not like his father, now there was a loyal man.}
+{1127}{DECK_56}{He's the head of the Water Merchants.}
+{1128}{DECK_62}{Something is making the Far Go Traders' caravans disappear.  I'd like to know the cause, since it does disrupt a piece of my business.}
+{1129}{DECK_58}{He's the head of the Crimson Caravan.}
+{1130}{DECK_59}{They're the last of the merchants, and I mean that literally.  Small time stuff, mostly.  Look northeast of the Merchant Market.}
+{1131}{DECK_59}{They're the last of the merchants, and I mean that literally.  Small time stuff, mostly.  Look northeast of the Merchant Market.}
+{1132}{DECK_60}{Amusing.  He considers himself the leader of the Far Go Traders.  More of a figurehead, actually.  He knows better than to interfere with my business.}
+{1133}{DECK_64}{Myths and legends.  The Death Claw is supposedly a ghost or something.}
+{1134}{DECK_64}{Myths and legends.  The Death Claw is supposedly a ghost or something.}
+{1135}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
+{1136}{DECK_65}{Old Town takes up the entire east side.  The skags live there.}
+{1137}{DECK_67}{An annoying organization.  Soon they may need a demonstration in the management of power.}
+{1138}{DECK_72}{Just out the door and to the north.  You can't miss it.}

@@ -1,0 +1,119 @@
+{100}{}{你看到简}
+{101}{JAIN00}{Why do you disturb an elder of the Cathedral?}
+{102}{}{我来寻求祝福。}
+{103}{}{我对你们的教会感兴趣，想了解一些信息。你们有宣传册吗？}
+{104}{}{只是随便看看。}
+{105}{}{妈妈？}
+{106}{JAIN01}{I am hardly your mother.}
+{107}{}{嗯哼？}
+{108}{}{臭臭！}
+{109}{JAIN02}{How dare you speak to me in that manner! You will be punished for your insolence! Guards!}
+{110}{JAIN03}{Perhaps one of our priests will discuss your needed education. Leave now.}
+{111}{JAIN04}{Have you studied the sacraments, child?}
+{112}{}{是的。}
+{113}{}{不是。}
+{114}{JAIN05}{Then you would have known high elders of the Cathedral do not just 'hand out' blessings. You will leave now.}
+{115}{JAIN07}{Continue to mock me and I will have you thrown out.}
+{116}{}{但我没有嘲笑你，真的。}
+{117}{}{嘲笑你？我为什么要那样做？！}
+{118}{}{很明显，善良和好脾气不是这个宗教的一部分。}
+{119}{}{抱歉，我想我该走了。}
+{120}{JAIN08}{You will pay for those heretical words.}
+{121}{JAIN09}{Your words do not match your conviction. They burn of the heresy within. You will be cleansed, then forgotten.}
+{122}{JAIN10}{Then why are you here? What would bring you to the Children of the Cathedral?}
+{123}{}{我是知识的追求者。我想了解更多。}
+{124}{}{我需要知道如何烧掉这个地方，所以我在寻找结构上的弱点。}
+{125}{}{我只是看看。}
+{126}{JAIN11}{Are you a Child?}
+{127}{}{女士，我看起来有那么年轻吗？}
+{128}{}{我是大教堂之子的成员吗？不是。}
+{129}{}{我是虔诚的信徒。}
+{130}{JAIN12}{Then you should know better then to be here. I would caution you about your manners. Leave.}
+{131}{}{好的。}
+{132}{}{咬我啊。}
+{133}{JAIN13}{Are you interested in converting to our faith? We can offer you what no one else can...}
+{134}{}{那是什么？}
+{135}{}{不，不感兴趣。我觉得你们是一群怪人。}
+{136}{JAIN14}{A lifetime of contentment. Fulfillment in the knowledge you're working to rebuild the planet and make a better place for those that follow.}
+{137}{}{听起来很有趣，你能多告诉我一些吗？我在寻求满足。}
+{138}{}{哦，是的，我打赌有很多重建工作，我相信你们的杯子里满是满足感。}
+{139}{}{我不这么认为。听起来有点可疑。}
+{140}{JAIN15}{Believe what you will. Just do it elsewhere. You may leave.}
+{141}{JAIN17}{Mocking our holy cause is not appreciated. You will be punished if you continue.}
+{142}{}{谁来惩罚我？哦，如果可以的话，我想要特别严厉的鞭打。}
+{143}{}{抱歉。}
+{144}{JAIN18}{When the Children walk the reborn land, your kind will vanish, heretic. Leave now.}
+{145}{JAIN19}{I am not completely devoid of humor, but leading the Children is something I take seriously. Please remember that.}
+{146}{}{抱歉，我对大教堂之子不太熟悉。}
+{147}{}{好的。再见。}
+{148}{JAIN20}{You are in the right place for spiritual fulfillment. The Children of the Cathedral seek a peaceful resolution of our world's problems and could use your help.}
+{149}{}{孩子们对变种人的计划是什么？}
+{150}{}{孩子们如何在这片废土中找到和平？}
+{151}{JAIN21}{Those that can be brought into the fold, shall be. Those that resist will suffer.}
+{152}{}{听起来是个艰难的工作。}
+{153}{}{现在是让你稍微受点苦的时候了。}
+{154}{}{理应如此。愿你在圣战中取得成功！}
+{155}{}{呃，我得走了。}
+{156}{JAIN22}{With perseverance, the Children can accomplish anything. We will not fail.}
+{157}{}{很好。我希望你不要。}
+{158}{}{是啊，随便吧。}
+{159}{}{好的。再见。}
+{160}{JAIN26}{Blasphemer! This is a Holy House! How could you think such a thing?}
+{161}{}{放轻松，我不是那个意思！}
+{162}{}{简单。我来给你看看。}
+{163}{JAIN27}{Blessings of the Holy Flame to you, my Child.}
+{164}{}{谁是圣火？}
+{165}{}{这个地方是个骗局。}
+{166}{}{祝你安好，贾因女祭司。再见。}
+{167}{}{乌格鲁克图鲁克？}
+{168}{}{哦哦哦！}
+{169}{JAIN28}{Once you had potential. You are no longer welcome here.}
+{170}{JAIN29}{You are not welcome here. Please leave.}
+{171}{JAIN30}{What brings you here?}
+{172}{}{我已经杀死了大师，我相信他伪装成了圣火。}
+{173}{}{你已经从大师的压迫中解放了。}
+{174}{}{穆图克多图布？}
+{175}{}{小脚丫。}
+{176}{JAIN31}{You have done what? You shall pay for your sin against the Holy Flame himself.}
+{177}{JAIN32}{The who?}
+{178}{}{大师。他打算统一变种人并统治世界。}
+{179}{}{别担心。}
+{180}{JAIN33}{You appear delusional. I suggest seeing a counselor to work out your problems.}
+{181}{JAIN204}{I told you to leave. Are you deaf or feeble?}
+{182}{JAIN200}{Leave this room immediately or I will have you cleansed by holy flame.}
+{183}{JAIN202}{There is no one greater then the Holy Flame and we are His servants.}
+{184}{}{真的吗？哇。那么，加入你们教派的理由是什么？}
+{185}{}{呃，好吧。再见。}
+{186}{JAIN27}{Blessings of the Holy Flame to you, my Child.}
+{187}{JAIN22}{With perseverance, the Children can accomplish anything. We will not fail.}
+{188}{JAIN201}{That is not an appropriate question.}
+
+#Tell Me Abouts
+
+{1000}{}{战争}
+{1001}{}{大师}
+{1002}{}{大教堂}
+{1003}{}{变种人}
+{1004}{}{枢纽}
+{1005}{}{钢铁}
+{1006}{}{废土控制站}
+{1007}{}{神圣}
+{1008}{}{统一}
+{1009}{}{兄弟会}
+{1010}{}{火焰}
+{1011}{}{孩子们}
+
+
+{1100}{JAIN300}{It was the cleansing of the planet.  The inattention by those who came before caused the holy fires.  It was justice.}
+{1101}{JAIN301}{There is no Master but the Holy Flame.  He is our master, He is the Master of all.}
+{1102}{JAIN302}{The will of the Holy One brings a rebirth to the planet.  We are His Children and carry out His plan.}
+{1103}{JAIN303}{They are holy for they bear marks of past sins for present witnesses.}
+{1104}{JAIN304}{Like many other cities, they will embrace the moral leadership of the Cathedral.}
+{1105}{JAIN305}{They claim a religious foundation, but lack that which would make them truly righteous.  Their zeal is refreshing, however.}
+{1106}{JAIN306}{I have never heard of such things.}
+{1107}{JAIN308}{The Holiest of Holies.  He is the guiding light we follow.  He shall cleanse those unfaithful when the Nexus of Rebirth is reached.}
+{1108}{JAIN309}{It is the uniting, by the Holy Flame, of all people, of all races and the cleansing of the heathens from this world.}
+{1109}{JAIN305}{They claim a religious foundation, but lack that which would make them truly righteous.  Their zeal is refreshing, however.}
+{1110}{JAIN308}{The Holiest of Holies.  He is the guiding light we follow.  He shall cleanse those unfaithful when the Nexus of Rebirth is reached.}
+{1111}{JAIN302}{The will of the Holy One brings a rebirth to the planet.  We are His Children and carry out His plan.}
+
