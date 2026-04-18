@@ -1,0 +1,487 @@
+{100}{}{你看到布奇。}
+{101}{}{告诉我你的情况。}
+{102}{}{听说过什么好传闻吗？}
+{103}{}{除了集市，这附近还有什么地方？}
+{104}{}{集市里有什么？}
+{105}{}{谢谢，就这样。}
+{106}{BUTCH01}{What do you want?}
+{107}{}{我需要问你几个问题。}
+{108}{}{没事，谢谢。}
+{109}{BUTCH02}{Time is money. Chit-chat is not money. You here about the job or what?}
+{110}{}{是的。}
+{111}{}{什么工作？}
+{112}{}{是为了什么还是为了钱来的？}
+{113}{BUTCH03}{Hot damn, someone with guts! Done and done. Go talk with my second, Rutger, and get the details.}
+{114}{}{等等！我先问几个关于这份工作的事！}
+{115}{}{好的，谢谢。}
+{116}{BUTCH04}{Ahh, don't spoil it! Make 'em quick.}
+{117}{}{报酬是多少？}
+{118}{}{呃……这是什么工作？}
+{119}{}{好吧，如果你这么想，我就去找鲁特格谈谈。}
+{120}{BUTCH05}{Uh . . . Rutger'll handle that. He does all the trivial stuff for the Far Go Traders. Now get on out, cause I got work to do!}
+{121}{}{再问一个问题，可以吗？}
+{122}{}{好的，谢谢。}
+{123}{butch06}{Just one. }
+{124}{}{[你注意到他似乎很紧张。]}
+{125}{}{呃……这是什么工作？}
+{126}{}{这工作有时间限制吗？}
+{127}{}{呃，报酬是多少来着？}
+{128}{}{你到底有多笨？}
+{129}{}{你看起来很紧张。想聊聊吗？}
+{130}{BUTCH07}{What's the . . . you agreed to a job without knowing what it is? Hot damn, you must be desperate. I like that!}
+{131}{}{就告诉我是什么，好吗？}
+{132}{}{好吧，你看起来也很绝望，所以我们扯平了。}
+{133}{BUTCH08}{Well, some caravans have been disappearing on us lately. Damn if anyone can figure out what happened to 'em.}
+{134}{}{那你想让我做什么？}
+{135}{}{我敢打赌你根本没去找过他们。}
+{136}{BUTCH09}{Simple. Find out who's doing it, and tell me. Or take 'em out. It makes no damn difference to me. Just get that job done!}
+{137}{}{有什么线索指向是谁干的吗？}
+{138}{}{我会解决他们的。}
+{139}{}{听起来很吓人……我还是算了。}
+{140}{BUTCH10}{Nah. Just the normal stuff.}
+{141}{}{拜托，总得有点我能用的东西吧。}
+{142}{butch11}{Listen, I don't have time to swap stories with you.}
+{143}{butch12}{Well there's uh . . . something, but I never listen to those rumors.}
+{144}{}{好吧，我有。是什么？}
+{145}{}{好的，谢谢。}
+{146}{BUTCH13}{You uh . . . you really want to hear it, huh? Well, some say it's the Death Claw, but . . . but I don't know nothin' about that.}
+{147}{}{你听起来很害怕。}
+{148}{}{谢谢。我能问你几个问题吗？}
+{149}{}{我怎么才能找到死亡爪的消息？}
+{150}{butch13a}{How do ya . . . Go talk to Beth, she knows more about that crap.}
+{151}{}{是的，你就像被打怕的狗一样害怕。}
+{152}{}{我去看看。}
+{153}{}{我需要更多的信息。}
+{154}{BUTCH14}{Listen you, I ain't scared. I'm . . . cautious. You'd be stupid not to be, with the Death Claw. Go talk to Beth, she'll tell ya more.}
+{155}{}{你听起来就像被打怕的狗一样害怕。}
+{156}{}{抱歉。我去看看。}
+{157}{}{我需要更多的信息。}
+{158}{BUTCH15}{I'm tired of your insults you . . . you pinhead! Don't come back! Rutger, take this annoying bug away!}
+{159}{BUTCH16}{Done and done. Now get on outta here, but come back and talk to me when you've found something.}
+{160}{BUTCH17}{Make it quick.}
+{161}{BUTCH18}{Then what the hell am I doing still looking at you? Get out!}
+{162}{butch19}{Uh . . . what did you say?}
+{163}{}{我是在暗示你太害怕去找他们了。}
+{164}{}{没什么。那么你想让我做什么？}
+{165}{BUTCH20}{You know, I don't like you. But that doesn't matter. You want the job or not?}
+{166}{}{当然。}
+{167}{}{不用了，谢谢。}
+{168}{butch19}{Uh . . . what did you say?}
+{169}{}{你听见我说的了。}
+{170}{}{没什么。那么，你想让我做什么？}
+{171}{BUTCH22}{Yeah, yesterday! Get going!}
+{172}{BUTCH23}{Hmmm. Whatta ya want'a know?}
+{173}{}{只是好奇。}
+{174}{}{没什么特别的。}
+{175}{}{算了。我还有一些问题。}
+{176}{BUTCH24}{Well, I've run the Far Go Traders for about five years. Before that I was in Adytum. Before that, near the Glow.}
+{177}{}{还有别的吗？}
+{178}{}{好吧，谢谢。}
+{179}{BUTCH25}{Not really.}
+{180}{BUTCH26}{Yeah, well I don't like going around talking about my personal life and such.}
+{181}{}{拜托，行吗？}
+{182}{}{哦，好吧。}
+{183}{BUTCH27}{What do I look like, a . . . a . . . one of those tourist things? Jeez.}
+{184}{}{不，你看起来是个聪明人。}
+{185}{}{我只是想知道一些常规的地方。}
+{186}{BUTCH28}{Thanks. Now, is there anything else?}
+{187}{BUTCH29}{Well, you got Old Town and the Heights, but that's just houses. Downtown's got all the stores and stuff.}
+{188}{}{有哪些商店？}
+{189}{}{谢谢。}
+{190}{BUTCH30}{Just stuff. you wanta' see the town, go look around yourself!}
+{191}{}{呃，什么都没得到，谢谢。}
+{192}{}{谢谢。}
+{193}{butch19}{Uh . . . what did you say?}
+{194}{}{你聋了吗？}
+{195}{}{没什么。不过我还需要问你几个问题。}
+{196}{BUTCH32}{Well, you got the Maltese Falcon, a nice place to eat,
+ believe you me. And then . . . let's see, the All in One Store,
+ the Weapons Shop . . . and, of course, Bob's Iguana Bits.}
+{197}{}{谢谢。}
+{198}{}{还有别的吗？}
+{199}{BUTCH33}{Got the Children of the Cathedral's hospital over on the
+ west side of Downtown. And then, of course, you got the Water Merchants south,
+ and the Crimson Caravan west.}
+{200}{}{谢谢。}
+{201}{BUTCH34}{Well, you got the Junktown to the north, and the
+ Brotherhood of Steel to the northwest. And, of course, the Boneyard
+ to the south.}
+{202}{}{还有别的吗？}
+{203}{}{谢谢。}
+{204}{butch35}{Well, Necropolis is east. But uh . . . I wouldn't spit there
+ if it came out gold, if ya' get my drift. Those ghouls'll eat a man's face
+ faster than an old lady shopping at bargain day.}
+{205}{}{听起来很有趣。}
+{206}{butch35a}{Puhh. Maybe for you! If you like that, then the Glow's down south.
+ It's a radioactive pit.}
+{207}{}{也许我会去晒晒太阳。}
+{208}{BUTCH36}{Just a bunch of different places. Go find out for yourself!}
+{209}{}{好吧，什么都没得到，谢谢。}
+{210}{}{谢谢。}
+{211}{BUTCH37}{Well, what do you have?}
+{212}{}{我找到了是谁在劫持商队。}
+{213}{}{我知道不是死亡爪劫持了商队。}
+{214}{}{现在没什么。再见。}
+{215}{BUTCH38}{Really?  Who?}
+{216}{}{是那些大个的变种人。}
+{217}{}{老鼠！大老鼠，长着大牙齿……}
+{218}{BUTCH39}{Wha . . . what would mutants want with our caravans?}
+{219}{}{我不知道，但他们似乎在抓人。}
+{220}{}{我不确定。但肯定是变种人，不是死亡爪。}
+{221}{BUTCH40}{What, do I look a crate shy of a load? Did you even see
+ the Death Claw?}
+{222}{}{去过了，看到了，干掉了。}
+{223}{}{我告诉你，不是死亡爪。}
+{224}{BUTCH41}{You . . . you killed it? Well . . . I uh . . . um . . . uh,
+ where did these mutants come from?}
+{225}{}{我还不知道。但他们在山里有个哨站。}
+{226}{}{他们为主宰工作。他们可不是普通的变种人。}
+{227}{BUTCH42}{An outpost? Well . . . um . . . well uh. I'll have to talk to
+ the Committee. Yeah . . . yeah, they'll know what to do. Done and done.
+ Get out, 'cause I got stuff to do . . . okay?}
+{228}{BUTCH43}{The Master?  H-He's more of a myth than the Death Claw.
+ You . . . you don't think he's real, do you?}
+{229}{}{我不确定。但我打算查个明白。}
+{230}{}{是的，我见过他！他要来找你了！}
+{231}{BUTCH44}{Yeah, done and  . . . yeah, you do that! Uh, I need to
+ talk to the Committee. They'll know what to do. N-N-Now get out!
+ I've got a lot to do . . . okay?}
+{232}{BUTCH45}{What! Well . . . well . . . I'm not afraid! Rutger!
+ I got guns! Rutger!}
+{233}{BUTCH46}{Alright, so it wasn't the Death Claw. But what would
+ the mutants in Old Town want with our caravans? Unless it's some
+ kind of conspiracy.}
+{234}{}{不，不，不，你这个笨蛋。这些变种人又大又绿，他们在北边的山里有一支军队。}
+{235}{}{你真是蠢，不是吗？你根本没在听！}
+{236}{BUTCH47}{What? Get out! I need to tell the Committee about this.
+ Go on, get out!}
+{237}{BUTCH48}{Come on. You can do better than that.}
+{238}{}{不，真的。他们是这些大个的绿变种人。}
+{239}{}{你说得对。}
+{240}{}{拜托，你觉得我这样的女人会撒谎吗？}
+{241}{BUTCH49}{I don't have time for this. Get out, and don't
+ come back until you find something useful!}
+{242}{BUTCH50}{Well then, what is it?}
+{243}{}{实际上，就是这些大个的变种人……}
+{244}{}{我告诉你，是老鼠！大而毛茸茸的……}
+{245}{BUTCH51}{Rats? You've got to be kidding me.}
+{246}{}{不，真的。大老鼠！}
+{247}{}{你说得对。我只是开玩笑。}
+{248}{BUTCH52}{Well . . . okay. I'll tell the Committee, but I don't
+ think they'll believe it. Although I have seen mighty big rats around . . .}
+{249}{BUTCH53}{How do you know? Did you see the Death Claw?}
+{250}{}{去过了，看到了，干掉了。}
+{251}{}{相信我。我知道。}
+{252}{butch54}{You . . . you killed it?}
+{253}{}{是的，确实如此。}
+{254}{butch54a}{Well then, then who's stealing my caravans?}
+{255}{}{我还不知道，但我会查出来。}
+{256}{}{是拉尔夫干的。}
+{257}{BUTCH55}{Uhh, do that.  And come back and tell me  . . . okay?}
+{500}{butch55a}{Uhh, do that.  And come back and tell me . . . okay?}
+{258}{BUTCH56}{Who the hell's Ralph?}
+{259}{}{算了。我会找到更多关于商队问题的信息。}
+{260}{}{他来取你的灵魂了！}
+{261}{BUTCH57}{Hey! You're making fun of me, aren't you? Rutger, show this
+ jerk the street! And don't come back without some real information!}
+{262}{BUTCH58}{Yeah, right. Like I'd believe that. Get out until you
+ can find me something useful.}
+{263}{BUTCH59}{Well, whatta'ya got for me?}
+{264}{}{是变种人。}
+{265}{}{我知道不是死亡爪劫持了商队。}
+{266}{BUTCH60}{Leave me alone! You got your reward, now get out!}
+{267}{BUTCH61}{Hey, put that down!}
+{268}{BUTCH62}{That's it. Rutger's gonna take it out of your hide!}
+{269}{BUTCH63}{Stop that right now!}
+{501}{butch63a}{Hey! Knock that off!}
+{270}{BUTCH64}{Well, what are you doing in here? Get out!}
+{272}{butch65}{Oh . . . well, it's not so get out!}
+{273}{BUTCH66}{Rutger's going to turn you into a human pretzel. Have fun. RUTGER!}
+{274}{BUTCH67}{Well, you're a bright one, ain't you? Here's the job:
+ Find out who's stealing my caravans. Money, big. You fail, hurt, big.
+ Understand? Now get outta here!}
+{275}{butch67a}{Wow, you're dumb. I don't have time for this. Go talk to Rutger.}
+{276}{BUTCH68}{Go talk to Rutger. He can tell you more about that crap.}
+{277}{butch69}{Like I told you . . .}
+{502}{butch69a}{Like I told you . . .}
+{278}{butch70a}{As I said . . .}
+{503}{butch70b}{As I said . . .}
+{279}{BUTCH71}{I ain't gonna repeat myself again!}
+{280}{BUTCH72}{Listen, I ain't gonna say it again!}
+{281}{BUTCH73}{He's the owner of the Maltese Falcon over on the west side.
+ I'd stay clear of him; he's not honest, like me.}
+{282}{BUTCH74}{Uh, no. Uh no, we don't talk about that.}
+{283}{BUTCH75}{The Maltese Falcon is a nightclub on the west side.
+ Hope sings there. What a doll.}
+{284}{BUTCH76}{What a pain they are. We think their hideout's in Old Town,
+ but we can't prove it.}
+{285}{BUTCH77}{Oh, he's the sheriff. But if you see a crime, report to me.
+ Justin doesn't rule the roost around here.}
+{286}{BUTCH78}{Old Harold? What do you want with that old mutant? He's in Old Town.
+ Just ask there.}
+{287}{BUTCH79}{Those bastards. Daren Hightower thinks he owns the damn Hub,
+ just because of the Water Tower.}
+{288}{BUTCH80}{He heads the Water Merchants. Nasty, greedy bastard is what he is.}
+{289}{BUTCH81}{You can find them over on the northwest edge of Downtown.
+ They controlled the hospital before the Children moved in.
+ Talk about trading the strange for the weird.}
+{290}{BUTCH82}{He's the boss of the Crimson Caravan. If you ask me he's nuts.}
+{291}{BUTCH83}{Don't you know where your own feet are?}
+{292}{BUTCH84}{That's me. You blind or something?}
+{293}{BUTCH85}{Uh, Beth's the manager of the Weapon Store.
+ She hears lots of rumors, if you're into that kind of stuff.}
+{294}{BUTCH86}{Rutger's my assistant.}
+{295}{BUTCH87}{It's south of the Merchant Market. The only source of water here
+ and for a lot of the surrounding area. The Water Merchants own the damn thing.}
+{296}{BUTCH88}{Three of my caravans have disappeared in the past month.
+ At first I thought it was either the Water Merchants or the Crimson Caravan,
+ but they've had disappearances too.}
+{297}{BUTCH89}{It's where everybody trades. Smack dab middle of town.}
+{298}{BUTCH90}{Uh, no I-I don't  . . . Go talk to Beth, she knows more about
+ that crap.}
+{299}{BUTCH91}{The Glow is a radioactive pit way, way down south.
+ Too much radiation for anyone to live there.}
+{300}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
+{301}{butch93}{It's over on the west side.}
+{302}{BUTCH94}{Junktown? Yeah, I've been up north to that place a few times.
+ Got some great booze.}
+{303}{BUTCH95}{Junktown? It's up north. Heard they're having some trouble,
+ what with their mayor Killian getting killed and all.}
+{304}{BUTCH96}{He's the mayor of Junktown, that's all I know.}
+{305}{BUTCH97}{I heard he's dead. What more do you need to know?}
+{306}{BUTCH98}{Oh, they're a bunch of gun freaks up to the northwest.
+ Really weird. They do make a damn fine weapon, though.}
+{307}{BUTCH99}{He leads the Brotherhood. It's about all I know.}
+{308}{butch100}{Well, it's a big ruined city to the south. The Children,
+ the Followers and Adytum are there, along with all the gangs and stuff.}
+{309}{butch101}{Why? What've you heard? I heard it'd been ransacked,
+ but no one knows who did it. But uh, I'm not worried. No one can take the Hub.}
+{310}{butch102}{Well, it's the place where everyone goes to trade in the
+ Boneyard. It's the only place civilized enough to do it.}
+{311}{butch103}{Last I heard, he's the mayor of Adytum.}
+{312}{butch104}{Well, they run a big, ol' hospital on the southwest side
+ of Downtown. Bunch of religious nuts, if you ask me.}
+{313}{butch105}{He heads up the Children of the Cathedral down in the Boneyard.}
+{314}{buth105a}{Jain's the High Priestess of the Children of the Cathedral
+ and sets up the hospital here in the Hub.}
+{504}{buth105b}{I've no idea what you're talking about.}
+{315}{butch106}{I uh . . . heard stories, that's all. No truth to them.}
+{316}{butch107}{Best prices on the best guns in town. Everyone says so,
+ it's not just that I own it! Just trot out this door and make a right.
+ You can't miss it.}
+{317}{butch108}{Now there's some good eating. Bob's has got the best charred
+ iguana this side of the desert.}
+{318}{butch109}{Well, you . . . uh . . . you don't want to go there.
+ The prices are really high and the quality's bad.}
+{319}{butch110}{What do you want with them wackos? Jeez, all that peace
+ preaching and tree hugging. Makes me sick.}
+{320}{butch111}{Don't know anything 'bout that.}
+{321}{butch112}{I . . . uh . . . don't think I want to tell you. Yeah, that's it.}
+{322}{butch113}{Never heard of it. You must have made it up or something.}
+{323}{butch114}{Well, last I heard it was trashed by someone. Don't know who, though.}
+{324}{}{我现在很忙。去找鲁特格谈。他会告诉我你是否值得见。}
+{325}{}{我没什么要对你说的。}
+{326}{}{我在哪里领取奖励？}
+{327}{}{我应该做什么来着？}
+{328}{}{滚出去！}
+{329}{}{还没有。}
+{330}{}{斯纳格尔！！！}
+{331}{}{滚出去，你这个白痴。}
+
+# Tell-Me-Abouts generic responses
+{980}{butch111}{Don't know anything 'bout that.}
+{981}{butch112}{I . . . uh . . . don't think I want to tell you. Yeah, that's it.}
+{982}{butch113}{Never heard of it. You must have made it up or something.}
+
+#
+# Tell-Me-Abouts
+#
+
+
+{1000}{}{德克}
+{1001}{}{地下}
+{1002}{}{马耳他}
+{1003}{}{小偷}
+{1004}{}{贾斯汀}
+{1005}{}{哈罗德}
+{1006}{}{商人}
+{1007}{}{达伦}
+{1008}{}{赤红}
+{1009}{}{德米特里}
+{1010}{}{商人}
+{1011}{}{布奇}
+{1012}{}{贝丝}
+{1013}{}{鲁特格}
+{1014}{}{水}
+{1015}{}{失踪}
+{1016}{}{市场}
+{1017}{}{爪}
+{1018}{}{辉光}
+{1019}{}{城镇}
+{1020}{}{高地}
+{1021}{}{废城}
+{1022}{}{基利安}
+{1023}{}{兄弟会}
+{1024}{}{长老}
+{1025}{}{天使}
+{1026}{}{阿迪特姆}
+{1027}{}{乔恩}
+{1028}{}{大教堂}
+{1029}{}{莫菲斯}
+{1030}{}{简}
+{1031}{}{主宰}
+{1032}{}{武器}
+{1033}{}{鲍勃的}
+{1034}{}{一体化}
+{1035}{}{追随者}
+{1036}{}{哈里斯}
+{1037}{}{猎鹰}
+{1038}{}{夜总会}
+{1039}{}{商人}
+{1040}{}{高塔}
+{1041}{}{格林}
+{1042}{}{商队}
+{1043}{}{罗马拉}
+{1044}{}{商人}
+{1045}{}{塔}
+{1046}{}{商队}
+{1047}{}{黑水}
+{1048}{}{钢铁}
+{1049}{}{天使}
+{1050}{}{墓园}
+{1051}{}{齐默尔曼}
+{1052}{}{武器}
+{1053}{}{商店}
+{1054}{}{枪支}
+{1055}{}{鲍勃的}
+{1056}{}{鬣蜥}
+{1057}{}{启示录}
+{1058}{}{死亡}
+{1059}{}{死亡爪}
+{1060}{}{热}
+{1061}{}{老城}
+{1062}{}{旧}
+{1063}{}{马克森}
+{1064}{}{全部}
+{1065}{}{废品}
+
+{1100}{BUTCH73}{He's the owner of the Maltese Falcon over on the west side.
+ I'd stay clear of him; he's not honest, like me.}
+{1101}{BUTCH74}{Uh, no. Uh no, we don't talk about that.}
+{1102}{BUTCH75}{The Maltese Falcon is a nightclub on the west side.
+ Hope sings there. What a doll.}
+{1103}{BUTCH76}{What a pain they are. We think their hideout's in Old Town,
+ but we can't prove it.}
+{1104}{BUTCH77}{Oh, he's the sheriff. But if you see a crime, report to me.
+ Justin doesn't rule the roost around here.}
+{1105}{BUTCH78}{Old Harold? What do you want with that old mutant?
+ He's in Old Town. Just ask there.}
+{1106}{BUTCH79}{Those bastards. Daren Hightower thinks he owns the damn Hub,
+ just because of the Water Tower.}
+{1107}{BUTCH80}{He heads the Water Merchants. Nasty, greedy bastard is what he is.}
+{1108}{BUTCH81}{You can find them over on the northwest edge of Downtown.
+ They controlled the hospital before the Children moved in.
+ Talk about trading the strange for the weird.}
+{1109}{BUTCH82}{He's the boss of the Crimson Caravan. If you ask me he's nuts.}
+{1110}{BUTCH83}{Don't you know where your own feet are?}
+{1111}{BUTCH84}{That's me. You blind or something?}
+{1112}{BUTCH85}{Uh, Beth's the manager of the Weapon Store.
+ She hears lots of rumors, if you're into that kind of stuff.}
+{1113}{BUTCH86}{Rutger's my assistant.}
+{1114}{BUTCH87}{It's south of the Merchant Market. The only source of water
+ here and for a lot of the surrounding area. The Water Merchants own the damn thing.}
+{1115}{BUTCH88}{Three of my caravans have disappeared in the past month.
+ At first I thought it was either the Water Merchants or the Crimson Caravan,
+ but they've had disappearances too.}
+{1116}{BUTCH89}{It's where everybody trades. Smack dab middle of town.}
+{1117}{BUTCH90}{Uh, no I-I don't . . . Go talk to Beth, she knows more about
+ that crap.}
+{1118}{BUTCH91}{The Glow is a radioactive pit way, way down south.
+ Too much radiation for anyone to live there.}
+{1119}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
+{1120}{butch93}{It's over on the west side.}
+{1121}{BUTCH94}{Junktown? Yeah, I've been up north to that place a few times.
+ Got some great booze.}
+#{1122}{BUTCH95}{Junktown? It's up north. Heard they're having some trouble,
+# what with their mayor Killian getting killed and all.}
+{1122}{BUTCH96}{He's the mayor of Junktown, that's all I know.}
+#{1123}{BUTCH97}{I heard he's dead. What more do you need to know?}
+{1123}{BUTCH98}{Oh, they're a bunch of gun freaks up to the northwest. Really weird.  They do make a damn fine weapon, though.}
+{1124}{BUTCH99}{He leads the Brotherhood. It's about all I know.}
+{1125}{butch100}{Well, it's a big ruined city to the south. The Children,
+ the Followers and Adytum are there, along with all the gangs and stuff.}
+#{1126}{butch101}{Why? What've you heard? I heard it'd been ransacked,
+# but no one knows who did it. But uh, I'm not worried. No one can take the Hub.}
+{1126}{butch102}{Well, it's the place where everyone goes to trade in the Boneyard.
+ It's the only place civilized enough to do it.}
+{1127}{butch103}{Last I heard, he's the mayor of Adytum.}
+{1128}{butch104}{Well, they run a big, ol' hospital on the southwest side
+ of Downtown. Bunch of religious nuts, if you ask me.}
+{1129}{butch105}{He heads up the Children of the Cathedral down in the Boneyard.}
+{1130}{buth105a}{Jain's the High Priestess of the Children of the Cathedral and
+ sets up the hospital here in the Hub.}
+{1131}{butch106}{I uh . . . heard stories, that's all. No truth to them.}
+{1132}{butch107}{Best prices on the best guns in town. Everyone says so,
+ it's not just that I own it! Just trot out this door and make a right.
+ You can't miss it.}
+{1133}{butch108}{Now there's some good eating. Bob's has got the best charred
+ iguana this side of the desert.}
+{1134}{butch109}{Well, you . . . uh . . . you don't want to go there.
+ The prices are really high and the quality's bad.}
+{1135}{butch110}{What do you want with them wackos? Jeez, all that peace
+ preaching and tree hugging. Makes me sick.}
+{1136}{BUTCH84}{That's me. You blind or something?}
+{1137}{BUTCH75}{The Maltese Falcon is a nightclub on the west side.
+ Hope sings there. What a doll.}
+{1138}{BUTCH75}{The Maltese Falcon is a nightclub on the west side.
+ Hope sings there. What a doll.}
+{1139}{BUTCH79}{Those bastards. Daren Hightower thinks he owns the damn Hub,
+ just because of the Water Tower.}
+{1140}{BUTCH80}{He heads the Water Merchants. Nasty, greedy bastard is what he is.}
+{1141}{BUTCH77}{Oh, he's the sheriff. But if you see a crime, report to me.
+ Justin doesn't rule the roost around here.}
+{1142}{BUTCH81}{You can find them over on the northwest edge of Downtown.
+ They controlled the hospital before the Children moved in.
+ Talk about trading the strange for the weird.}
+{1143}{BUTCH82}{He's the boss of the Crimson Caravan. If you ask me he's nuts.}
+{1144}{BUTCH83}{Don't you know where your own feet are?}
+{1145}{BUTCH87}{It's south of the Merchant Market. The only source of water
+ here and for a lot of the surrounding area. The Water Merchants own the damn thing.}
+{1146}{BUTCH88}{Three of my caravans have disappeared in the past month.
+ At first I thought it was either the Water Merchants or the Crimson Caravan,
+ but they've had disappearances too.}
+{1147}{BUTCH96}{He's the mayor of Junktown, that's all I know.}
+{1148}{BUTCH98}{Oh, they're a bunch of gun freaks up to the northwest. Really weird.  They do make a damn fine weapon, though.}
+{1149}{butch100}{Well, it's a big ruined city to the south. The Children,
+ the Followers and Adytum are there, along with all the gangs and stuff.}
+{1150}{butch100}{Well, it's a big ruined city to the south. The Children,
+ the Followers and Adytum are there, along with all the gangs and stuff.}
+{1151}{butch103}{Last I heard, he's the mayor of Adytum.}
+{1152}{butch107}{Best prices on the best guns in town. Everyone says so,
+ it's not just that I own it! Just trot out this door and make a right.
+ You can't miss it.}
+{1153}{butch107}{Best prices on the best guns in town. Everyone says so,
+ it's not just that I own it! Just trot out this door and make a right.
+ You can't miss it.}
+{1154}{butch107}{Best prices on the best guns in town. Everyone says so,
+ it's not just that I own it! Just trot out this door and make a right.
+ You can't miss it.}
+{1155}{butch108}{Now there's some good eating. Bob's has got the best charred
+ iguana this side of the desert.}
+{1156}{butch108}{Now there's some good eating. Bob's has got the best charred
+ iguana this side of the desert.}
+{1157}{butch110}{What do you want with them wackos? Jeez, all that peace
+ preaching and tree hugging. Makes me sick.}
+{1158}{BUTCH90}{Uh, no I-I don't . . . Go talk to Beth, she knows more about
+ that crap.}
+{1159}{BUTCH90}{Uh, no I-I don't . . . Go talk to Beth, she knows more about
+ that crap.}
+{1160}{BUTCH91}{The Glow is a radioactive pit way, way down south.
+ Too much radiation for anyone to live there.}
+{1161}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
+{1162}{BUTCH92}{Old Town's over on the east side. The skags hang out there.}
+{1163}{BUTCH99}{He leads the Brotherhood. It's about all I know.}
+{1164}{butch109}{Well, you . . . uh . . . you don't want to go there.
+ The prices are really high and the quality's bad.}
+{1165}{BUTCH94}{Junktown? Yeah, I've been up north to that place a few times.
+ Got some great booze.}
