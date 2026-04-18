@@ -1,0 +1,281 @@
+{100}{}{你看到妮可。}
+{101}{}{告诉我一些关于追随者的历史。}
+{102}{}{你们崇拜什么？}
+{103}{}{这里附近有什么？}
+{104}{}{我有一些信息要告诉你。}
+{105}{Nic_1}{Greetings. Hey! We're very glad you could join us. We hope you have found our humble abode to your satisfaction.}
+{106}{}{谢谢。你能多告诉我一些你们在这里崇拜的东西吗？}
+{107}{}{“谦逊”是个好词。“垃圾堆”更贴切。}
+{108}{}{我有。可以问你几个问题吗？}
+{109}{}{还行吧，我想。}
+{110}{}{嗯？呃，嗯，嗯。嗯？}
+{111}{Nic_2}{We don't worship so much as follow a set of principles. We want to bring peace back to this wasteland. The world tends toward destruction, so we try to make a difference.}
+{112}{}{怎么？}
+{113}{Nic_4}{We try to remind people why the Great War happened in the first place. And help insure it won't ever happen again.}
+{114}{}{你们有取得任何成功吗？}
+{115}{}{听起来像是痴人说梦——不太现实。}
+{116}{Nic_5}{We never give up hope. We never will, even though most live by the gun these days. And we are concerned with the Children of the Cathedral...}
+{117}{}{他们怎么了？}
+{118}{Nic_6}{They claim to want peace, like us. But anyone who disagrees with them just disappears. Their Dark God is not what he seems, believe me.}
+{119}{}{你怎么知道的？}
+{120}{}{你不觉得你有点偏执吗？}
+{121}{}{“我们？”这是所有追随者的想法还是只有你这样想？}
+{122}{Nic_7}{Call it instinct. We've seen Morpheus and the Nightkin and they don't look like peace makers to us. Their hospitals and message of peace make them attractive, but we know there's evil there.}
+{123}{}{你不觉得你有点偏执吗？}
+{124}{}{你有任何线索吗？}
+{125}{}{好吧，我会确保告诉你我发现的任何事情。}
+{126}{}{“我们”这个“我们”那个。你是在给大家强加意见吗？}
+{127}{Nic_8}{Maybe, but it's what kept us alive this long.}
+{128}{Nic_8a}{We are united. If not, we'll perish. Now forgive me if that irritates you.}
+{129}{Nic_8b}{Is there anything else you need to know?}
+{130}{}{是的。}
+{131}{}{不用了，谢谢。我现在要走了。}
+{132}{Nic_9}{Ask, and I'll answer if I can.}
+{133}{Nic_10}{We don't have time for questions from the likes of you. My assistant will show you out.}
+{134}{Nic_11}{Hey! I don't appreciate that, but I'll overlook it if you apologize.}
+{135}{}{我真后悔和你说过话。}
+{136}{}{好吧，对不起。}
+{137}{Nic_12}{Fine. We don't have time to baby-sit. Leave us.}
+{138}{Nic_13}{Apology accepted. Please remember you are a guest here. Now, is there anything else?}
+{139}{}{我可以再问几个问题吗？}
+{140}{}{不，我现在要走了。}
+{141}{Nic_14}{We wish you the best in the journeys ahead. Please feel free to use our base as much as you like.}
+{142}{Nic_15}{We know it could be better. But when you're preparing for war...}
+{143}{}{和谁开战？}
+{144}{Nic_16}{The Children of the Cathedral. We believe in bringing peace to the land, but there's some things that just can't be helped.}
+{145}{}{你是什么意思？他们做了什么？}
+{146}{}{你为什么相信和平？}
+{147}{Nic_17}{Ever since the Children showed up, anyone who doesn't believe in their vision disappears. They say that they are here for peace, but we know differently.}
+{148}{}{你是怎么知道的？}
+{149}{}{那你打算怎么做？}
+{150}{}{这些孩子是从哪里来的？}
+{151}{Nic_18}{All we can do is prepare. But the time will come when we must fight these Children and their Dark God.}
+{152}{}{听起来很危险。我会把我发现的告诉你。}
+{153}{}{我以为你说你相信和平？}
+{154}{Nic_19}{Good! We could use any information. Now, is there anything else you'd like to ask?}
+{155}{}{是的，有。}
+{156}{}{不，谢谢。}
+{157}{Nic_20}{We do believe in peace, but we will defend this land if we have to. If that means the Followers go to war, so be it.}
+{158}{}{听起来自相矛盾。}
+{159}{}{这有点两面派，不是吗？}
+{160}{}{好的。我可以再问几个问题吗？}
+{161}{Nic_21}{Not really. We came to teach peace, but we will defend ourselves, if necessary. That includes our beliefs}
+{162}{Nic_21b}{You would not understand.}
+{163}{}{嗯，好吧。我可以再问几个问题吗？}
+{164}{}{好吧。我想我该走了。}
+{165}{Nic_22}{They showed up around the same time we did, but no one knows how they came about. We've heard rumors that their leader, Morpheus, was part of the Rippers before he was 'enlightened' by their Dark God.}
+{166}{}{嘿，人是会变的。}
+{167}{}{听起来他不是个好人。}
+{168}{}{我想我会去看看。}
+{169}{Nic_23}{That's a very charitable description. Now, is there anything else?}
+{170}{}{是的，有。}
+{171}{}{不，谢谢。}
+{172}{Nic_24}{Be very careful. Of course, we would love to know what's going on over there.}
+{173}{}{我可以再问几个问题吗？}
+{174}{}{谢谢，我现在要走了。}
+{175}{Nic_25}{We started this group after seeing that bloodshed still ruled the land. There seemed to be no hope left. Man can't live without hope.}
+{176}{}{那你给人们带来希望吗？}
+{177}{}{你听起来像是那些孩子中的一员！}
+{178}{}{你们是什么时候成立这个组织的？}
+{179}{Nic_26}{We try. We try our best. Most people don't want to listen, but a few do.}
+{180}{}{好吧，希望我能再问一个问题。}
+{181}{}{我该走了。}
+{182}{Nic_27}{I'm sure you'd be bored with the telling of the entire history of the Followers. There a number of books in here with that information.}
+{183}{}{我可以再问几个问题吗？}
+{184}{}{好吧，谢谢。我现在要走了。}
+{185}{Nic_28}{A number of our spies have seen Nightkin coming in and out of the back room of the Children's temple. Something important is back there.}
+{186}{}{好吧，我会汇报我听到的任何消息。}
+{187}{}{我可以再问几个问题吗？}
+{188}{}{有趣，但我得走了。}
+{189}{Nic_29}{What would you like to know?}
+{190}{}{追随者是从哪里开始的？}
+{191}{}{是谁引发的？}
+{192}{}{你们的目标是什么？}
+{193}{Nic_30}{Far to the south, near the Great Glow. The times were hard, but we managed to survive. We realized then the Great War must never happen again.}
+{194}{}{所以，是你创立了末日信徒？}
+{195}{}{是什么让你来到北方的？}
+{196}{Nic_31}{After my parents were killed by a marauders, [sigh] it was time the killing stopped. It's our goal to make this land the way it used to be, before the war.}
+{197}{}{对你父母的遭遇我很遗憾。}
+{198}{}{所以这可能会再次发生？这太愚蠢了！}
+{199}{}{那些掠夺者是谁？}
+{200}{}{是什么让你把末日信徒带到北方的？}
+{201}{Nic_32}{We've never found out, although we've heard a group live up north in an old ruined city. We've let it rest.}
+{202}{}{为什么不呢？你可以复仇！}
+{203}{}{你为什么最终把末日信徒带到了北方？}
+{204}{Nic_33}{We're here to make peace, not kill in hatred.}
+{205}{}{听起来更像是恐惧。}
+{206}{}{你真高尚。如果是我，我会杀光他们。}
+{207}{}{你现在为什么在这里？}
+{208}{Nic_34}{I'm not surprised. The Followers are here to talk sense into people like you.}
+{209}{}{祝你好运，这很难说服人。这就是你现在在北方的原因吗？}
+{210}{}{你认为暴力从来都不是好事吗？}
+{211}{}{那么回答更多问题也无妨，对吧？}
+{212}{}{嗯，我得走了。}
+{213}{Nic_35}{[Sigh] You're simply not ready to understand the differences. Okay. So why don't you just think about it, then come back to talk.}
+{214}{Nic_36}{There aren't many left down south. The radiation has polluted almost everything. Most of the remaining people followed us to start the organization.}
+{215}{}{你的家人是如何幸存下来的？}
+{216}{}{经过80年后仍然有那么多辐射吗？}
+{217}{Nic_37}{We lived on the outskirts of the Great Glow. Sickness had started spreading, so we gathered all the people and we made our way north. [Sigh] That's when my parents were killed.}
+{218}{}{我很遗憾。}
+{219}{}{为什么经过这么长时间，那片地区仍然有那么多辐射？}
+{220}{Nic_39}{Thank you, I appreciate that. Now, is there anything else you needed to ask me?}
+{221}{}{是的，有。}
+{222}{}{不，我得走了。}
+{223}{Nic_41}{Well, the rumor is that there was something so important there, that the area was saturated with bombs to insure everything was wiped out.}
+{224}{}{我可以再问几个问题吗？}
+{225}{}{有趣。但我现在得走了。}
+{226}{Nic_42}{Well, the Boneyard is pretty scarce as you can see. Adytum is to the west. The Children of the Cathedral are to the north. I wouldn't advise going too far south into the city, though, the Rippers and the Blades have made it into a battlefield.}
+{227}{Nic_43}{About what?}
+{228}{}{我知道大教堂之子的幕后真相。}
+{229}{}{你愿意付我多少？}
+{230}{}{没事，算了。}
+{231}{Nic_44}{Finally! What'd you find out?}
+{232}{}{我现在是大教堂之子的领袖！}
+{233}{}{莫菲斯不是大教堂之子的领袖，实际上是由大师掌控的。}
+{234}{}{你知道夜行者吗？}
+{235}{Nic_45}{Wait a s...the Dark God? You're not telling me he's real.}
+{236}{}{哦，他确实存在，只是不是神。他是个变种人，想让所有人成为夜行者，为了他们自己的好。}
+{237}{}{是的，他是！你应该害怕全能的黑暗之神！}
+{238}{Nic_46}{What do the Nightkin have to do with this?}
+{239}{}{他们实际上是一种超级变种人的种族。大师是他们的领袖。}
+{240}{Nic_47}{What do they plan to do? }
+{241}{}{大师想让所有人成为夜行者。他认为他们更优越，并且认为把所有人变成他们能拯救人类！}
+{242}{}{我不太确定。我只知道大师正在把人变成夜行者。}
+{243}{Nic_49}{What should we do?}
+{244}{}{我要去和大师谈谈。}
+{245}{}{我现在就要摧毁大教堂。}
+{246}{}{我已经摧毁了制造超级变种人的地方，但我需要帮助来摧毁大教堂。}
+{247}{Nic_50}{We can't let this opportunity pass. You scout the Cathedral. We'll meet you there and help you storm the place.}
+{248}{}{不，不是那个。你知道有没有秘密入口吗？}
+{249}{}{好的。到时候见。}
+{250}{}{不！我不想让其他人受伤。}
+{251}{Nic_52a}{No, but I know someone who will. Go to the Cathedral and find a woman named Laura. Tell her 'Red Rider'. We'll create a diversion if we can.}
+{252}{}{谢谢。希望好运与我们同在。}
+{253}{Nic_53}{Luck has nothing to do with it. I have faith in you.}
+{254}{Nic_56}{Our destiny lies before us. Let us hope we are worthy.}
+{255}{Nic_57}{What? This is our destiny. The Followers will fight this evil so that the healing of the land can finally begin.}
+{256}{}{不。我不允许。}
+{257}{}{好的。到大教堂见。}
+{258}{Nic_58}{[Chuckle] You don't control us. We will attack, with or without your blessing!}
+{259}{Nic_59}{Talk to him?! Are you crazy?}
+{260}{}{你不是那个宣扬和平的人吗？}
+{261}{}{不，你阻止不了我。}
+{262}{Nic_60}{Well, yes, but...}
+{263}{}{我想我可以在不流血的情况下结束这一切。不过要做好准备，以防我失败。}
+{264}{Nic_61a}{Obviously, your mind is made up. This might help you. Go to the Cathedral and find a woman named Laura. Say the phrase 'Red Rider'. And please...come back safely.}
+{265}{Nic_63}{You have a strange sense of humor. Why don't you come back when you have something serious to say.}
+{266}{}{抱歉，只是个玩笑。和夜行者有关。}
+{267}{Nic_65a}{So you're a mercenary. Fine, I'll give you 100 caps.}
+{268}{Nic_66b}{Now, what do you have for me?}
+{269}{}{我知道有人计划骗你一些钱。谢谢。}
+{270}{}{莫菲斯不是孩子们的领袖。实际上是由大师控制的。}
+{271}{}{你知道夜行者吗？}
+{272}{}{孩子们是由外星人控制的。}
+{273}{Nic_67}{Good luck. Now we've got to examine our options.}
+{274}{Nic_68}{How noble, how impressive. And we thought you were different. Now take your money and leave.}
+{275}{Nic_69}{Well hi. What can I help you with now?}
+{276}{}{我需要问几个问题。}
+{277}{}{抱歉，我得走了。}
+{278}{}{呃，呃，呃？}
+{279}{Nic_70}{What do you want now?}
+{280}{}{我想说声抱歉。}
+{281}{}{我只是想再见你一面。}
+{282}{Nic_70a}{Just leave}
+{283}{Nic_71}{Apology accepted. What can I help you with?}
+{284}{}{我可以再问几个问题吗？}
+{285}{}{暂时就这些。我得走了。}
+{286}{Nic_72}{Please, we're busy. Don't you have things to do?}
+{287}{Nic_74}{What are you doing? Put that down!}
+{288}{Nic_75}{Stop!}
+{289}{Nic_76}{Stop that!}
+{290}{Nic_77}{Hey! Get out of here!}
+{291}{Nic_78}{Well, if you say so. Now run along, because we have work to do.}
+{292}{Nic_79}{Talk to Jake. He knows more about that.}
+{293}{Nic_80}{As I said...}
+{294}{Nic_81}{As I mentioned before...}
+{295}{Nic_82}{I said...}
+{296}{Nic_83}{Well, as I said...}
+{297}{Nic_84}{Hi! Are you an idiot?}
+{298}{Nic_85}{I've told you that numerous times. Maybe you should work on your memory.}
+{299}{Nic_86}{Morpheus is the leader of the Children of the Cathedral. He is evil, and that fact must be exposed.}
+{300}{Nic_87}{There's not much to tell.}
+{301}{Nic_87a}{Laura is one of our insiders within the Cathedral. She's extremely loyal to our cause}
+{302}{Nic_87b}{Jake is second in command.}
+{303}{Nic_88}{In here, you'll find historical texts and philosophical texts...almost anything. Feel free to look around.}
+{304}{Nic_89}{The Children of the Cathedral worship him. They say he only wants to heal humanity, but that's a lie.}
+{305}{Nic_90}{I've heard very little about him.}
+{306}{Nic_91}{They're the personal servants of Morpheus. They're huge, hulking creatures. Ugh!}
+{307}{Nic_92}{You've probably seen their hospitals around. They preach peace, but there is something wrong with them. We need to find out what.}
+{308}{Nic_93}{It's a small settlement. You'll find it to the west in the Boneyard.}
+{309}{Nic_94}{Before the Great War, this was a huge, thriving city. My mother told stories, but there's hardly anything left now. Just ruins and death.}
+{310}{Nic_95}{They war with the Blades down south. The Rippers are the most ruthless gang in the Boneyard. When we sent people to convert them, the only thing we got back were their heads.}
+{311}{Nic_96}{The Blades fight the Rippers down south. They're the most agreeable of the two gangs, though that's not saying much. We've converted a few of them.}
+{312}{Nic_97}{Our history is in the last case, top shelf.}
+{313}{Nic_98}{Everything was burned, everything destroyed. We try to teach people peace, so that it will never happen again.}
+{314}{Nic_99}{That's the trading city to the north. We're trying to set up a table there.}
+{315}{Nic_100}{We're not sure about them. They sell guns, we sell peace. But their motives...}
+{316}{Nic_101}{We know nothing about that.}
+{317}{Nic_102}{We've never heard of that.}
+{318}{Nic_103}{We don't know what you're talking about.}
+{319}{}{你对大教堂的孩子们还了解些什么？}
+{320}{}{我可以再问几个关于他们的问题吗？}
+{321}{}{我可以问你一些其他的事情吗？}
+{322}{}{你知道他们的领袖是谁吗？}
+{323}{}{你对他们有什么怀疑吗？}
+{324}{}{你能帮我消灭他们吗？}
+{325}{}{谢谢，我需要所有能得到的帮助！}
+{326}{}{谢谢你的信息。我现在要走了。}
+
+
+# Nicole Tell-Me-Abouts generic responses
+{980}{Nic_101}{We know nothing about that.}
+{981}{Nic_102}{We've never heard of that.}
+{982}{Nic_103}{We don't know what you're talking about.}
+
+
+#
+# Nicole Tell-Me-Abouts
+#
+
+
+{1000}{}{莫菲斯}
+{1001}{}{妮可}
+{1002}{}{劳拉}
+{1003}{}{杰克}
+{1004}{}{图书馆}
+{1005}{}{上帝}
+{1006}{}{主宰}
+{1007}{}{夜行者}
+{1008}{}{大教堂}
+{1009}{}{阿迪图姆}
+{1010}{}{天使的}
+{1011}{}{追随者}
+{1012}{}{战争}
+{1013}{}{枢纽}
+{1014}{}{兄弟会}
+{1015}{}{天使}
+{1016}{}{尸骨城}
+{1017}{}{钢铁}
+
+{1100}{Nic_86}{Morpheus is the leader of the Children of the Cathedral. He is evil, and that fact must be exposed.}
+{1101}{Nic_87}{There's not much to tell.}
+{1102}{Nic_87a}{Laura is one of our insiders within the Cathedral. She's extremely loyal to our cause.}
+{1103}{Nic_87b}{Jake is second in command.}
+{1104}{Nic_88}{In here, you'll find historical texts and philosophical texts...almost anything. Feel free to look around.}
+{1105}{Nic_89}{The Children of the Cathedral worship him. They say he only wants to heal humanity, but that's a lie.}
+{1106}{Nic_90}{I've heard very little about him.}
+{1107}{Nic_91}{They're the personal servants of Morpheus. They're huge, hulking creatures. Ugh!}
+{1108}{Nic_92}{You've probably seen their hospitals around. They preach peace, but there is something wrong with them. We need to find out what.}
+{1109}{Nic_93}{It's a small settlement. You'll find it to the west in the Boneyard.}
+{1110}{Nic_94}{Before the Great War, this was a huge, thriving city. My mother told stories, but there's hardly anything left now. Just ruins and death.}
+{1111}{Nic_97}{Our history is in the last case, top shelf.}
+{1112}{Nic_98}{Everything was burned, everything destroyed. We try to teach people peace, so that it will never happen again.}
+{1113}{Nic_99}{That's the trading city to the north. We're trying to set up a table there.}
+{1114}{Nic_100}{We're not sure about them. They sell guns, we sell peace. But their motives...}
+{1115}{Nic_94}{Before the Great War, this was a huge, thriving city. My mother told stories, but there's hardly anything left now. Just ruins and death.}
+{1116}{Nic_94}{Before the Great War, this was a huge, thriving city. My mother told stories, but there's hardly anything left now. Just ruins and death.}
+{1117}{Nic_100}{We're not sure about them. They sell guns, we sell peace. But their motives...}
+
+{1118}{Nic_101}{We know nothing about that.}
+{1119}{Nic_102}{We've never heard of that.}
+{1120}{Nic_103}{We don't know what you're talking about.}
