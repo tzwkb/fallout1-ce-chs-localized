@@ -29,7 +29,7 @@ localization_tools/     ← 翻译工具
 
 ---
 
-## 安装与使用（中文版）
+## 安装与使用
 
 ### 下载支持中文的 Fallout CE 引擎
 
@@ -43,11 +43,11 @@ localization_tools/     ← 翻译工具
 
 Release 页面：[yurikaka/fallout1-ce-chs/releases](https://github.com/yurikaka/fallout1-ce-chs/releases)
 
-### 下载完整中文版游戏包
+### 下载完整中文支持游戏包
 
 | 内容 | 下载 |
 |------|------|
-| 完整中文版游戏包 | [fallout1-ce-chs-gbk.zip](https://github.com/tzwkb/fallout1-ce-chs-localized/releases/download/v1.0.0/fallout1-ce-chs-gbk.zip) |
+| 完整中文支持游戏包 | [fallout1-ce-chs-gbk.zip](https://github.com/tzwkb/fallout1-ce-chs-localized/releases/download/v1.0.0/fallout1-ce-chs-gbk.zip) |
 
 > 该压缩包为**开箱即用的完整中文支持游戏包**，包含：
 > - 编译好的 Fallout CE 引擎（支持中文显示，`fallout-ce.exe`）
