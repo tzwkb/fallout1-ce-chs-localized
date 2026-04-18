@@ -1,0 +1,21 @@
+# These are Male farmers who work and toil under the sun. Tone of voice is busy, yet friendly.
+# Accent, if any would be akin to Midwestern United States, a little slow and drawn out, but not
+# a Southern drawl.
+
+{100}{}{你看到一个农夫。}
+{101}{}{我需要更好的土壤。}
+{102}{}{我不需要雇人。}
+{103}{}{我不需要更多的水，请离开。}
+{104}{}{这土壤太硬了。}
+{105}{}{这些愚蠢的植物活不下去。}
+{106}{}{我为什么要当农夫？}
+{107}{}{那些野狗最好别在我的庄稼上撒尿。}
+# pissing == urinating
+
+{108}{}{我讨厌狗！}
+{109}{}{我讨厌狗！呃，除了你的。}
+{110}{}{这不是你的家。}
+{111}{}{什么？你到处打扰别人吗？}
+{112}{}{真是糟糕的一天。我累坏了。}
+{113}{}{我要报警。}
+{114}{}{我累了。请离开。}
